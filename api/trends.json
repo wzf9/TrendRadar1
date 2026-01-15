@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T20:23:23.176433+08:00",
-  "total_titles_processed": 1939,
+  "generated_at": "2026-01-15T21:34:26.071842+08:00",
+  "total_titles_processed": 2056,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 86,
+      "match_count": 90,
       "titles": [
         {
           "title": "特朗普被曝希望对伊朗的军事打击“快速且具决定性”",
@@ -48,6 +48,18 @@
           "time_info": "[12时42分 ~ 19时12分]"
         },
         {
+          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
+          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时18分 ~ 21时34分]"
+        },
+        {
           "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
           "url": "https://news.ifeng.com/c/8puu58c2sSy",
           "source": "凤凰网",
@@ -69,8 +81,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时53分 ~ 20时23分]"
+          "appearance_count": 17,
+          "time_info": "[08时53分 ~ 21时34分]"
         },
         {
           "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
@@ -87,18 +99,6 @@
           "time_info": "[08时53分 ~ 15时18分]"
         },
         {
-          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
-          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时18分 ~ 20时23分]"
-        },
-        {
           "title": "特朗普特使秘密见了伊朗末代王储",
           "url": "https://news.ifeng.com/c/8puGHxn1NbX",
           "source": "凤凰网",
@@ -108,6 +108,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时18分 ~ 04时12分]"
+        },
+        {
+          "title": "美军航母开往中东，特朗普要“速战速决”？",
+          "url": "https://news.ifeng.com/c/8pw5GkQd9wz",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 21时34分]"
         },
         {
           "title": "特朗普称取消与伊朗官员所有会面，美国到底会不会对伊朗发动军事行动？目前局势如何？美国为何「死盯」伊朗？",
@@ -120,17 +131,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时01分 ~ 14时19分]"
-        },
-        {
-          "title": "美军航母开往中东，特朗普要“速战速决”？",
-          "url": "https://news.ifeng.com/c/8pw5GkQd9wz",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 20时23分]"
         },
         {
           "title": "据华尔街日报：特朗普于去年秋季下令在加勒比地区增兵，以此向委内瑞拉马杜罗施压。现任和前任国防官员表示，如果华盛顿和伊朗之间爆发冲突，海地的军事集结将限制特朗普的选择。",
@@ -164,6 +164,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "特朗普：如果明尼苏达州的腐败政客不遵守法律，不阻止职业煽动者和叛乱分子攻击美国移民及海关执法局（ICE）的爱国者们（他们只是在履行职责），我将启动《叛乱法》，许多总统都曾这样做过。",
+          "url": "https://flash.jin10.com/detail/20260115210550321800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "德国财长：敦促欧洲在特朗普时代展现强硬立场",
@@ -219,6 +230,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "特朗普批准英伟达芯片对华出口，美国会山吵翻天",
+          "url": "https://news.ifeng.com/c/8pvxjHceg37",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时14分 ~ 21时34分]"
         },
         {
           "title": "美国总统特朗普：与委内瑞拉领导人进行了精彩的对话。",
@@ -351,18 +374,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时18分 ~ 15时18分]"
-        },
-        {
-          "title": "特朗普批准英伟达芯片对华出口，美国会山吵翻天",
-          "url": "https://news.ifeng.com/c/8pvxjHceg37",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时14分 ~ 20时23分]"
         },
         {
           "title": "特朗普被曝希望对伊朗的军事打击快速且具决定性",
@@ -518,6 +529,17 @@
           "time_info": "05时13分"
         },
         {
+          "title": "美国总统特朗普威胁在明尼苏达州动用《叛乱法案》。",
+          "url": "https://flash.jin10.com/detail/20260115210504906800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "特朗普邀请记者喝放了5天的牛奶",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%82%80%E8%AF%B7%E8%AE%B0%E8%80%85%E5%96%9D%E6%94%BE%E4%BA%865%E5%A4%A9%E7%9A%84%E7%89%9B%E5%A5%B6%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -612,7 +634,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -645,7 +667,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -694,6 +716,17 @@
           "time_info": "07时11分"
         },
         {
+          "title": "特朗普政府考虑聘请私人安保承包商来保护委内瑞拉的石油资产",
+          "url": "https://flash.jin10.com/detail/20260115204849478800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "未排除动武可能，特朗普称将“观望”伊朗局势发展",
           "url": "https://wallstreetcn.com/livenews/3037300",
           "source": "华尔街见闻-快讯",
@@ -733,7 +766,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -755,9 +788,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
+        },
+        {
+          "title": "两位知情人士透露，特朗普政府正准备利用私人军事承包商来保护委内瑞拉的石油和能源资产，而不是部署美军。",
+          "url": "https://flash.jin10.com/detail/20260115204113043800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "美国参议院以51票对50票否决了阻止特朗普在未经国会授权的情况下进一步对委内瑞拉采取军事行动的动议，副总统万斯投下了打破平局的一票。",
@@ -994,7 +1038,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 79,
+      "match_count": 81,
       "titles": [
         {
           "title": "伊朗：骚乱事件主要幕后人员落网",
@@ -1031,8 +1075,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时01分 ~ 20时23分]"
+          "appearance_count": 14,
+          "time_info": "[12时01分 ~ 21时34分]"
         },
         {
           "title": "美国会对伊朗动武吗",
@@ -1071,11 +1115,12 @@
             15,
             10,
             7,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时53分 ~ 20时23分]"
+          "appearance_count": 16,
+          "time_info": "[10时53分 ~ 21时34分]"
         },
         {
           "title": "伊朗高级将领：伊朗处于最高战备状态",
@@ -1207,9 +1252,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 21时34分]"
         },
         {
           "title": "伊朗外交部：美国对伊朗经济制裁构成“反人类罪”",
@@ -1221,17 +1266,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
-        },
-        {
-          "title": "王毅同伊朗外长通电话",
-          "url": "https://www.toutiao.com/trending/7595543467804069412/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
         },
         {
           "title": "外媒：伊朗关闭领空",
@@ -1300,6 +1334,20 @@
           "time_info": "08时53分"
         },
         {
+          "title": "撤走侨民、调动航母、出动侦察机，美军准备好对伊朗“动武”了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32390075",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时19分 ~ 21时34分]"
+        },
+        {
           "title": "伊朗重新开放领空",
           "url": "https://wallstreetcn.com/livenews/3037518",
           "source": "华尔街见闻-快讯",
@@ -1337,6 +1385,18 @@
           "time_info": "[04时12分 ~ 05时13分]"
         },
         {
+          "title": "王毅同伊朗外长通电话",
+          "url": "https://www.toutiao.com/trending/7595543467804069412/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 21时34分]"
+        },
+        {
           "title": "英国驻伊朗大使馆暂时关闭",
           "url": "https://wallstreetcn.com/livenews/3037298",
           "source": "华尔街见闻-快讯",
@@ -1361,17 +1421,18 @@
           "time_info": "[12时43分 ~ 13时19分]"
         },
         {
-          "title": "撤走侨民、调动航母、出动侦察机，美军准备好对伊朗“动武”了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32390075",
-          "source": "澎湃新闻",
+          "title": "美国停办 75 国签证，其中包括巴西、伊朗、埃及，这在未来会影响 2026 年世界杯正常举办吗？",
+          "url": "https://www.zhihu.com/question/1995083094298944420",
+          "source": "知乎",
           "ranks": [
-            17,
-            14,
-            12
+            11,
+            15,
+            13,
+            18
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时19分 ~ 20时23分]"
+          "time_info": "[18时14分 ~ 21时34分]"
         },
         {
           "title": "美国会对伊朗动武吗",
@@ -1386,17 +1447,27 @@
           "time_info": "[08时53分 ~ 10时54分]"
         },
         {
-          "title": "美国停办 75 国签证，其中包括巴西、伊朗、埃及，这在未来会影响 2026 年世界杯正常举办吗？",
-          "url": "https://www.zhihu.com/question/1995083094298944420",
-          "source": "知乎",
+          "title": "美航母打击群调往中东 伊朗最高战备",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%88%AA%E6%AF%8D%E6%89%93%E5%87%BB%E7%BE%A4%E8%B0%83%E5%BE%80%E4%B8%AD%E4%B8%9C+%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E6%88%98%E5%A4%87",
+          "source": "百度热搜",
           "ranks": [
-            11,
-            15,
-            13
+            14,
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时14分 ~ 20时23分]"
+          "time_info": "[19时12分 ~ 21时34分]"
+        },
+        {
+          "title": "王毅同伊朗外长通电话",
+          "url": "https://www.douyin.com/hot/2368882",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 21时34分]"
         },
         {
           "title": "伊朗关闭领空",
@@ -1421,6 +1492,18 @@
           "time_info": "[00时18分 ~ 01时20分]"
         },
         {
+          "title": "王毅同伊朗外长阿拉格齐通电话",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%90%8C%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E9%98%BF%E6%8B%89%E6%A0%BC%E9%BD%90%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 21时34分]"
+        },
+        {
           "title": "伊朗密集展开外交沟通",
           "url": "https://wallstreetcn.com/livenews/3037255",
           "source": "华尔街见闻-快讯",
@@ -1431,6 +1514,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时12分 ~ 04时12分]"
+        },
+        {
+          "title": "台积电财报点燃市场情绪，纳指期货转涨，伊朗局势暂时降温，原油跌4%，白银一度跌7%",
+          "url": "https://wallstreetcn.com/articles/3763348",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 21时34分]"
         },
         {
           "title": "美国国务院：确认对伊朗等国暂停签证受理。",
@@ -1481,17 +1576,6 @@
           "time_info": "[05时13分 ~ 06时13分]"
         },
         {
-          "title": "美航母打击群调往中东 伊朗最高战备",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%88%AA%E6%AF%8D%E6%89%93%E5%87%BB%E7%BE%A4%E8%B0%83%E5%BE%80%E4%B8%AD%E4%B8%9C+%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E6%88%98%E5%A4%87",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 20时23分]"
-        },
-        {
           "title": "伊朗约2000枚导弹可覆盖美以基地",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%BA%A62000%E6%9E%9A%E5%AF%BC%E5%BC%B9%E5%8F%AF%E8%A6%86%E7%9B%96%E7%BE%8E%E4%BB%A5%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -1535,17 +1619,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时42分 ~ 12时43分]"
-        },
-        {
-          "title": "王毅同伊朗外长阿拉格齐通电话",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%90%8C%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E9%98%BF%E6%8B%89%E6%A0%BC%E9%BD%90%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
         },
         {
           "title": "伊朗伊斯兰革命卫队：已做好充分准备 将回应敌人行动",
@@ -1592,17 +1665,6 @@
           "time_info": "08时53分"
         },
         {
-          "title": "王毅同伊朗外长通电话",
-          "url": "https://www.douyin.com/hot/2368882",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
           "title": "伊朗重新开放领空",
           "url": "https://www.toutiao.com/trending/7595433484718719002/",
           "source": "今日头条",
@@ -1647,17 +1709,6 @@
           "time_info": "10时54分"
         },
         {
-          "title": "台积电财报点燃市场情绪，纳指期货转涨，伊朗局势暂时降温，原油跌4%，白银一度跌7%",
-          "url": "https://wallstreetcn.com/articles/3763348",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
           "title": "伊朗对德黑兰飞行情报区实施临时空域管控",
           "url": "https://wallstreetcn.com/livenews/3037376",
           "source": "华尔街见闻-快讯",
@@ -1667,6 +1718,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
+        },
+        {
+          "title": "王毅同伊朗外长阿拉格齐通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32392740",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "航班雷达网站称，伊朗上空的空域似乎正在迅速清空，目前没有航班获准进入伊朗领空。",
@@ -1711,6 +1773,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "伊朗防长：骚乱背后有敌对势力 伊朗不允许这一威胁再度出现",
+          "url": "https://wallstreetcn.com/livenews/3038010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "据BNO新闻：德国警告航空公司避开伊朗领空，因存在“冲突升级和反航空武器”风险。",
@@ -1862,7 +1935,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -1914,7 +1987,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -1924,8 +1997,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时53分 ~ 20时23分]"
+          "appearance_count": 17,
+          "time_info": "[08时53分 ~ 21时34分]"
         },
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -2108,16 +2181,113 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
+        },
+        {
+          "title": "摩根士丹利：第四季度净营收178.9亿美元，市场预估176.2亿美元。 第四季度每股收益2.68美元。 第四季度财富管理净营收84.3亿美元，同比增长13%，市场预估83.4亿美元。 第四季度股票销售和交易业务营收36.7亿美元，同比增长10%，市场预估35.5亿美元。 第四季度FICC业务销售和交易营收17.6亿美元，市场预估19.2亿美元。 摩根士丹利美股盘前涨近1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3037995",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "金价上涨 银行保管箱“一箱难求”",
+          "url": "https://www.toutiao.com/trending/7595232648327495722/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 14时19分]"
+        },
+        {
+          "title": "金十图示：2026年01月15日（周四）上海金午盘价为1032.73元/克，较国际金价（1032.72元/克）高0.01元/克",
+          "url": "https://flash.jin10.com/detail/20260115150320133800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "金价彻底杀疯了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 21时34分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "世界黄金协会：2025年金价共计53次刷新历史记录",
+          "url": "https://wallstreetcn.com/livenews/3038024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "金十图示：2026年01月15日（周四）上海金早盘价为1033.61元/克，较国际金价（1031.08元/克）高2.53元/克",
+          "url": "https://flash.jin10.com/detail/20260115110344751800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
+          "url": "https://www.zhihu.com/question/1995072589756901062",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
         {
           "title": "Anthropic与OpenAI就IPO采取初步行动。 马斯克旗下太空探索Spacex已经为IPO面试了多家承销行。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3037234",
@@ -2167,60 +2337,8 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金价上涨 银行保管箱“一箱难求”",
-          "url": "https://www.toutiao.com/trending/7595232648327495722/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            1,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 14时19分]"
-        },
-        {
-          "title": "金十图示：2026年01月15日（周四）上海金午盘价为1032.73元/克，较国际金价（1032.72元/克）高0.01元/克",
-          "url": "https://flash.jin10.com/detail/20260115150320133800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "金价彻底杀疯了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "金十图示：2026年01月15日（周四）上海金早盘价为1033.61元/克，较国际金价（1031.08元/克）高2.53元/克",
-          "url": "https://flash.jin10.com/detail/20260115110344751800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
@@ -2248,13 +2366,24 @@
           "time_info": "[01时20分 ~ 08时53分]"
         },
         {
+          "title": "DeepSeek 梁文锋旗下幻方量化 2025 年收益率 56.6%，如何评价这一业绩？",
+          "url": "https://www.zhihu.com/question/1995072623625855863",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "摩根士丹利邢自强：2040年将迎来中国医药界的DeepSeek时刻",
           "url": "https://wallstreetcn.com/livenews/3037962",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         }
@@ -2275,11 +2404,12 @@
             13,
             8,
             16,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时01分 ~ 20时23分]"
+          "appearance_count": 14,
+          "time_info": "[12时01分 ~ 21时34分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",

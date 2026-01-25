@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-01-25T16:16:17.147432+08:00",
-  "total_titles_processed": 951,
+  "generated_at": "2026-01-25T17:13:39.264228+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普威胁对加拿大征收100%关税，加总理回应",
           "url": "https://news.ifeng.com/c/8qBty1JuFMx",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时01分 ~ 16时16分]"
+          "appearance_count": 12,
+          "time_info": "[09时01分 ~ 17时13分]"
         },
         {
           "title": "格陵兰岛开启，随后是日债崩盘、特朗普TACO，日元干预收尾--“头条主宰市场”的一周结束了",
@@ -56,8 +57,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时44分 ~ 16时16分]"
+          "appearance_count": 9,
+          "time_info": "[12时44分 ~ 17时13分]"
         },
         {
           "title": "特朗普施压后，英国突然叫停",
@@ -69,8 +70,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时01分 ~ 16时16分]"
+          "appearance_count": 12,
+          "time_info": "[09时01分 ~ 17时13分]"
         },
         {
           "title": "美国财政部：特朗普将出席特朗普账户峰会",
@@ -108,8 +109,22 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时13分 ~ 16时16分]"
+          "appearance_count": 21,
+          "time_info": "[00时13分 ~ 17时13分]"
+        },
+        {
+          "title": "相关谈判“进展顺利”，特朗普称美国将取得格陵兰岛美军基地所在区域“主权”",
+          "url": "https://wallstreetcn.com/articles/3764087",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时44分 ~ 17时13分]"
         },
         {
           "title": "据AXIOS：特朗普将于当地时间下周三出席有关“特朗普账户”的峰会。",
@@ -146,20 +161,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时13分 ~ 09时01分]"
-        },
-        {
-          "title": "相关谈判“进展顺利”，特朗普称美国将取得格陵兰岛美军基地所在区域“主权”",
-          "url": "https://wallstreetcn.com/articles/3764087",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时44分 ~ 16时16分]"
         },
         {
           "title": "特朗普告诉《纽约邮报》，委内瑞拉石油将运往休斯敦炼油厂。",
@@ -202,20 +203,6 @@
           "time_info": "[07时12分 ~ 15时15分]"
         },
         {
-          "title": "美国州检察官起诉特朗普政府，指控其阻碍枪击案调查",
-          "url": "https://wallstreetcn.com/livenews/3043350",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            6,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时44分 ~ 16时16分]"
-        },
-        {
           "title": "特朗普承认美军在委使用秘密武器，目击者：被袭者头痛吐血",
           "url": "https://news.ifeng.com/c/8qCTUGtfKG0",
           "source": "凤凰网",
@@ -223,8 +210,36 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时18分 ~ 17时13分]"
+        },
+        {
+          "title": "特朗普威胁“100%关税”，加拿大总理卡尼号召民众“购买国货”",
+          "url": "https://wallstreetcn.com/articles/3764088",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时18分 ~ 17时13分]"
+        },
+        {
+          "title": "美国州检察官起诉特朗普政府，指控其阻碍枪击案调查",
+          "url": "https://wallstreetcn.com/livenews/3043350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            6,
+            7,
+            9,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[14时18分 ~ 16时16分]"
+          "time_info": "[12时44分 ~ 17时13分]"
         },
         {
           "title": "美国州检察官起诉特朗普政府 指控其阻碍枪击案调查",
@@ -234,23 +249,12 @@
             2,
             7,
             10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时44分 ~ 16时16分]"
-        },
-        {
-          "title": "特朗普威胁“100%关税”，加拿大总理卡尼号召民众“购买国货”",
-          "url": "https://wallstreetcn.com/articles/3764088",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
+            15,
+            18
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[14时18分 ~ 16时16分]"
+          "time_info": "[12时44分 ~ 17时13分]"
         },
         {
           "title": "特朗普称已获取7艘扣押油轮石油",
@@ -261,11 +265,12 @@
             14,
             15,
             16,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时13分 ~ 16时16分]"
+          "appearance_count": 7,
+          "time_info": "[11时13分 ~ 17时13分]"
         },
         {
           "title": "特朗普政府计划向美国稀土公司（USA Rare Earth）注资16亿美元，以加强关键矿产资源的供应保障。美国政府将获得美国稀土公司10%的股份。（英国金融时报）",
@@ -276,11 +281,12 @@
             17,
             18,
             19,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时13分 ~ 16时16分]"
+          "appearance_count": 7,
+          "time_info": "[11时13分 ~ 17时13分]"
         },
         {
           "title": "特朗普起诉美国最大银行摩根大通，索赔至少 50 亿美元，具体是怎么回事？他能胜诉吗？",
@@ -296,15 +302,15 @@
           "time_info": "[06时11分 ~ 09时01分]"
         },
         {
-          "title": "特朗普称赞前ICE局长 称其揭露明尼苏达州事件“动机”",
-          "url": "https://flash.jin10.com/detail/20260125150515491800",
-          "source": "金十数据",
+          "title": "特朗普嫌盟友在阿富汗没出力，英、澳等国“接受不了”",
+          "url": "https://news.ifeng.com/c/8qCeJxu5emm",
+          "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时16分"
+          "time_info": "17时13分"
         },
         {
           "title": "意大利总理称特朗普有关北约的言论是“不可接受”的",
@@ -331,6 +337,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时01分 ~ 11时13分]"
+        },
+        {
+          "title": "特朗普称赞前ICE局长 称其揭露明尼苏达州事件“动机”",
+          "url": "https://flash.jin10.com/detail/20260125150515491800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 17时13分]"
         },
         {
           "title": "美国州检察官起诉特朗普政府",
@@ -626,8 +644,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时18分 ~ 16时16分]"
+          "appearance_count": 7,
+          "time_info": "[14时18分 ~ 17时13分]"
         },
         {
           "title": "金价疯涨的底层逻辑",
@@ -682,8 +700,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时13分 ~ 16时16分]"
+          "appearance_count": 21,
+          "time_info": "[00时13分 ~ 17时13分]"
         }
       ]
     },
@@ -725,11 +743,12 @@
           "url": "https://wallstreetcn.com/livenews/3043358",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 17时13分]"
         },
         {
           "title": "白银价格跟随黄金狂飙",

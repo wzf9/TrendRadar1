@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T17:25:33.212220+08:00",
-  "total_titles_processed": 1604,
+  "generated_at": "2026-01-28T18:18:53.526096+08:00",
+  "total_titles_processed": 1697,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 72,
       "titles": [
         {
           "title": "特朗普：将很快宣布新的美联储主席人选",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时58分 ~ 17时25分]"
+          "appearance_count": 11,
+          "time_info": "[10时58分 ~ 18时18分]"
         },
         {
           "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
@@ -80,8 +80,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时20分 ~ 17时25分]"
+          "appearance_count": 9,
+          "time_info": "[13时20分 ~ 18时18分]"
         },
         {
           "title": "特朗普，两天内动手？",
@@ -105,6 +105,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时20分 ~ 13时21分]"
+        },
+        {
+          "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
+          "url": "https://news.ifeng.com/c/8qHmjbQngoK",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "美国总统特朗普：我很快就会宣布美联储主席人选。",
@@ -409,6 +420,17 @@
           "time_info": "00时19分"
         },
         {
+          "title": "特朗普乐见贬值，美元跌至四年低位，亚洲货币走强，现货黄金站上5300，银、铜、铝集体上涨",
+          "url": "https://wallstreetcn.com/articles/3764338",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "韩国总统顾问：正如美国总统特朗普所说，我们会共同寻求关税解决方案。",
           "url": "https://flash.jin10.com/detail/20260128161606852800",
           "source": "金十数据",
@@ -624,7 +646,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -833,8 +855,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时58分 ~ 17时25分]"
+          "appearance_count": 11,
+          "time_info": "[10时58分 ~ 18时18分]"
         },
         {
           "title": "美航母打击群逼近，伊朗：不回避谈判，但对侵略将果断回应",
@@ -1159,7 +1181,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -1225,7 +1247,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -1299,6 +1321,29 @@
           "time_info": "[02时24分 ~ 03时21分]"
         },
         {
+          "title": "美股盘前：阿斯麦涨约5%，希捷科技涨约10%",
+          "url": "https://wallstreetcn.com/livenews/3045460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时18分]"
+        },
+        {
+          "title": "C3.ai(AI.N)美股盘前涨10.9%，此前有报道称该公司正与Automation Anywhere就合并事宜进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260128173854928800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "美股七巨头收盘播报｜亚马逊涨超2.6%，该公司拟将生鲜超市及无人便利店改造为全食超市门店",
           "url": "https://wallstreetcn.com/livenews/3044996",
           "source": "华尔街见闻-快讯",
@@ -1310,15 +1355,15 @@
           "time_info": "06时14分"
         },
         {
-          "title": "美股盘前：阿斯麦涨约5%，希捷科技涨约10%",
-          "url": "https://wallstreetcn.com/livenews/3045460",
-          "source": "华尔街见闻-快讯",
+          "title": "康宁(GLW.N)美股盘前涨5.3%，即将公布业绩；摩根大通此前上调该公司的目标价。",
+          "url": "https://flash.jin10.com/detail/20260128173357657800",
+          "source": "金十数据",
           "ranks": [
-            16
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时25分"
+          "time_info": "18时18分"
         },
         {
           "title": "德州仪器四季度营收44.2亿美元，分析师预期44.3亿美元。 预计一季度营收43.2亿-46.8亿美元，分析师预期44.2亿美元。 德州仪器（TXN）美股盘后涨5%。",
@@ -1522,7 +1567,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         }
@@ -1530,7 +1575,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
@@ -1553,8 +1598,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时19分 ~ 17时25分]"
+          "appearance_count": 24,
+          "time_info": "[00时19分 ~ 18时18分]"
         },
         {
           "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
@@ -1568,8 +1613,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[02时23分 ~ 17时25分]"
+          "appearance_count": 22,
+          "time_info": "[02时23分 ~ 18时18分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1580,8 +1625,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时22分 ~ 17时25分]"
+          "appearance_count": 7,
+          "time_info": "[14时22分 ~ 18时18分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1610,6 +1655,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时20分 ~ 17时25分]"
+        },
+        {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "金价创历史新高、逼近5190美元，特朗普称不担心美元下跌",
@@ -1674,8 +1730,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时58分 ~ 17时25分]"
+          "appearance_count": 11,
+          "time_info": "[10时58分 ~ 18时18分]"
         },
         {
           "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
@@ -1783,8 +1839,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时55分 ~ 17时25分]"
+          "appearance_count": 13,
+          "time_info": "[08时55分 ~ 18时18分]"
+        },
+        {
+          "title": "谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例 第一块多米诺骨牌已推倒？",
+          "url": "https://www.cls.cn/detail/2272037",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 18时18分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -1809,17 +1877,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时19分 ~ 16时19分]"
-        },
-        {
-          "title": "谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例 第一块多米诺骨牌已推倒？",
-          "url": "https://www.cls.cn/detail/2272037",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 17时25分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。 在美国，Google AI Plus月租7.99美元。",

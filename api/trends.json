@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T09:04:16.567913+08:00",
-  "total_titles_processed": 843,
+  "generated_at": "2026-01-30T11:59:55.868822+08:00",
+  "total_titles_processed": 1024,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 78,
+      "match_count": 85,
       "titles": [
         {
           "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
@@ -14,11 +14,12 @@
           "ranks": [
             13,
             14,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 09时04分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 11时59分]"
         },
         {
           "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
@@ -38,7 +39,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -182,6 +183,19 @@
           "time_info": "[01时31分 ~ 03时25分]"
         },
         {
+          "title": "美政府关门危机解除？特朗普与舒默接近达成协议，拆分DHS预算并重谈移民执法限制",
+          "url": "https://wallstreetcn.com/articles/3764456",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时17分 ~ 11时59分]"
+        },
+        {
           "title": "金十数据1月30日讯，美国总统特朗普在Truth Social上置顶了他威胁打击伊朗的帖文。",
           "url": "https://flash.jin10.com/detail/20260130032628040800",
           "source": "金十数据",
@@ -231,19 +245,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时31分 ~ 04时18分]"
-        },
-        {
-          "title": "美政府关门危机解除？特朗普与舒默接近达成协议，拆分DHS预算并重谈移民执法限制",
-          "url": "https://wallstreetcn.com/articles/3764456",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时17分 ~ 09时04分]"
         },
         {
           "title": "美国总统特朗普：一支庞大的舰队正驶往中东。",
@@ -345,6 +346,17 @@
           "time_info": "[01时31分 ~ 02时31分]"
         },
         {
+          "title": "特朗普宣布国家紧急状态",
+          "url": "https://news.ifeng.com/c/8qKOxahNKqK",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 11时59分]"
+        },
+        {
           "title": "特朗普：普京同意停火一周",
           "url": "https://flash.jin10.com/detail/20260130011030336800",
           "source": "金十数据",
@@ -391,6 +403,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时18分 ~ 05时18分]"
+        },
+        {
+          "title": "特朗普威胁对加拿大飞机加征50%关税",
+          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 11时59分]"
         },
         {
           "title": "美国总统特朗普：（谈中东）哈马斯是促成人质获释的重要因素。",
@@ -483,9 +507,42 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "特朗普听取多种打击伊朗方案",
+          "url": "https://wallstreetcn.com/livenews/3046958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "特朗普：将开放委内瑞拉领空",
+          "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "特朗普：计划30日公布美联储下任主席提名",
+          "url": "https://news.ifeng.com/c/8qKUiK0pwuH",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         },
         {
           "title": "特朗普起诉自己的政府部门 索赔100亿美元",
@@ -494,18 +551,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "特朗普宣布国家紧急状态",
-          "url": "https://news.ifeng.com/c/8qKOxahNKqK",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -521,6 +567,17 @@
           "time_info": "07时17分"
         },
         {
+          "title": "特朗普称美联储“新掌门”周五揭晓 沃什获提名概率飙升至87%！",
+          "url": "https://www.cls.cn/detail/2275048",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
           "title": "美国总统特朗普：美国特使威特科夫带来了一些相当不错的消息。",
           "url": "https://flash.jin10.com/detail/20260130063254804800",
           "source": "金十数据",
@@ -532,15 +589,15 @@
           "time_info": "07时17分"
         },
         {
-          "title": "特朗普威胁对加拿大飞机加征50%关税",
-          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
-          "source": "凤凰网",
+          "title": "美媒：特朗普“会面+通话”，敲定沃什为下一任美联储主席人选",
+          "url": "https://flash.jin10.com/detail/20260130112120127800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时04分"
+          "time_info": "11时59分"
         },
         {
           "title": "美国总统特朗普：不知道政府是否会关门，正与国会合作。",
@@ -549,7 +606,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -582,7 +639,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -593,7 +650,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -626,7 +683,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -648,9 +705,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "庞巴迪：关注到美国总统特朗普的帖子。正与加拿大政府保持联系。希望此事能尽快解决，以避免对航空交通和广大乘客造成重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3046944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         },
         {
           "title": "美国总统特朗普：福特和通用汽车的表现比以往任何时候都好。",
@@ -670,7 +738,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -692,7 +760,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -714,7 +782,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -802,7 +870,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -824,7 +892,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -846,7 +914,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -890,9 +958,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "特朗普与前美联储理事沃什会面",
+          "url": "https://wallstreetcn.com/livenews/3046922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         },
         {
           "title": "特朗普最新回应美军机南海坠毁，“有可能是燃油出了问题”",
@@ -920,7 +999,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "伊朗：美若动武 伊将打击以色列",
@@ -942,11 +1021,12 @@
           "url": "https://news.ifeng.com/c/8qKNo2ddMDD",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 11时59分]"
         },
         {
           "title": "伊朗首都启动战时避难设施建设规划",
@@ -958,6 +1038,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "伊朗强烈谴责欧盟将伊朗革命卫队列为“恐怖组织”",
+          "url": "https://wallstreetcn.com/livenews/3046959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         },
         {
           "title": "普京表示正密切关注伊朗问题相关进展",
@@ -1024,6 +1115,18 @@
           "time_info": "[04时18分 ~ 06时17分]"
         },
         {
+          "title": "伊朗被曝将举行实弹军事演习 美政府再次面临部分“停摆” | 环球市场",
+          "url": "https://www.cls.cn/detail/2274975",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 11时59分]"
+        },
+        {
           "title": "欧盟外交与安全政策高级代表卡拉斯就与伊朗的紧张局势发表评论称，该地区不需要新的战争。",
           "url": "https://flash.jin10.com/detail/20260130000241124800",
           "source": "金十数据",
@@ -1044,17 +1147,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        },
-        {
-          "title": "伊朗被曝将举行实弹军事演习 美政府再次面临部分“停摆” | 环球市场",
-          "url": "https://www.cls.cn/detail/2274975",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时04分"
         },
         {
           "title": "伊朗外交部声明：以最强烈措辞谴责欧盟对革命卫队作出“非法且毫无根据”的认定。将一国官方军事机构列为“恐怖组织”是危险之举。伊朗人民保留对其采取对等措施以回应欧盟决定的合法权利。",
@@ -1085,7 +1177,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -1157,11 +1249,23 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 09时04分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 11时59分]"
+        },
+        {
+          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 11时59分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银跳水后反弹，铜油走强",
@@ -1173,17 +1277,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        },
-        {
-          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时04分"
         },
         {
           "title": "航空业ETF收涨超2.6%，领跑美股行业ETF，标普科技板块跌超1.8%",
@@ -1216,8 +1309,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时17分 ~ 09时04分]"
+          "appearance_count": 3,
+          "time_info": "[07时17分 ~ 11时59分]"
         },
         {
           "title": "周四（1月29日））美股尾盘，彭博电动汽车价格回报指数跌1.76%，报3646.11点。 该指数全天处于下跌状态，过半时间交投于3680点附近，北京时间22:00过后一度加速下跌。",
@@ -1315,7 +1408,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -1324,11 +1417,24 @@
           "ranks": [
             2,
             1,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 09时04分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 11时59分]"
+        },
+        {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 11时59分]"
         },
         {
           "title": "金价上涨打金店2天亏5万",
@@ -1341,18 +1447,6 @@
             25,
             23,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 09时04分]"
-        },
-        {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            19
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -1423,15 +1517,27 @@
           "time_info": "[00时31分 ~ 07时17分]"
         },
         {
+          "title": "金价剧烈震荡引担忧？WGC：“狂飙涨势”是结构性转变而非投机，今年将继续！",
+          "url": "https://www.cls.cn/detail/2275001",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
           "title": "今日金价",
           "url": "https://s.weibo.com/weibo?q=%E4%BB%8A%E6%97%A5%E9%87%91%E4%BB%B7&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 11时59分]"
         },
         {
           "title": "金价大幅跳水后反弹",
@@ -1440,9 +1546,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "黄金价格暴跌原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         },
         {
           "title": "金价跌幅扩大至5%。",
@@ -1462,7 +1579,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         }
@@ -1539,7 +1656,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -1550,7 +1667,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         }
@@ -1610,7 +1727,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },

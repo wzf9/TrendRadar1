@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T18:30:18.438579+08:00",
-  "total_titles_processed": 1521,
+  "generated_at": "2026-02-03T19:29:12.493923+08:00",
+  "total_titles_processed": 1625,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
@@ -24,11 +24,12 @@
           "url": "https://news.ifeng.com/c/8qRbfAGXhdh",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时29分 ~ 18时30分]"
+          "appearance_count": 6,
+          "time_info": "[17时29分 ~ 19时29分]"
         },
         {
           "title": "中方回应特朗普让中国参与军控谈判",
@@ -40,8 +41,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时36分 ~ 18时30分]"
+          "appearance_count": 8,
+          "time_info": "[15时36分 ~ 19时29分]"
+        },
+        {
+          "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
+          "url": "https://wallstreetcn.com/articles/3764775",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时36分 ~ 19时29分]"
         },
         {
           "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
@@ -72,16 +85,15 @@
           "time_info": "[09时08分 ~ 15时36分]"
         },
         {
-          "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
-          "url": "https://wallstreetcn.com/articles/3764775",
-          "source": "华尔街见闻",
+          "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
+          "url": "https://news.ifeng.com/c/8qRnEtgNGZK",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时36分 ~ 18时30分]"
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 19时29分]"
         },
         {
           "title": "美国法官解冻被总统特朗普叫停的沃旭能源Orsted纽约海上风电项目。",
@@ -226,7 +238,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
         },
@@ -567,7 +579,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
         },
@@ -658,6 +670,20 @@
           "time_info": "[00时25分 ~ 02时29分]"
         },
         {
+          "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时37分 ~ 19时29分]"
+        },
+        {
           "title": "伊朗否认收到美“最后通牒”，总统下令启动核谈判",
           "url": "https://news.ifeng.com/c/8qQImZxB0ZO",
           "source": "凤凰网",
@@ -694,19 +720,6 @@
           "time_info": "[00时25分 ~ 07时19分]"
         },
         {
-          "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时37分 ~ 18时30分]"
-        },
-        {
           "title": "乌克兰将伊朗伊斯兰革命卫队列为“恐怖组织”",
           "url": "https://news.ifeng.com/c/8qPWYV4KCzQ",
           "source": "凤凰网",
@@ -716,17 +729,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时18分 ~ 07时19分]"
-        },
-        {
-          "title": "伊朗重大让步！川普“航母外交”奏效了？丨Hi，今天怎么看？",
-          "url": "https://flash.jin10.com/detail/20260203182007876800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时30分"
         },
         {
           "title": "伊朗总统已下令启动核谈判",
@@ -765,15 +767,28 @@
           "time_info": "01时31分"
         },
         {
+          "title": "伊朗重大让步！川普“航母外交”奏效了？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260203182007876800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 19时29分]"
+        },
+        {
           "title": "卡塔尔外交部发言人：（就伊朗问题表示）为确保局势降级，地区合作与持续努力正在进行中。",
           "url": "https://flash.jin10.com/detail/20260203181952367800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 19时29分]"
         },
         {
           "title": "伊朗外交部就伊美接触明确立场：解除制裁是核心诉求",
@@ -874,7 +889,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
         },
@@ -992,8 +1007,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时08分 ~ 18时30分]"
+          "appearance_count": 13,
+          "time_info": "[09时08分 ~ 19时29分]"
         },
         {
           "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
@@ -1050,6 +1065,18 @@
           "time_info": "[00时25分 ~ 02时29分]"
         },
         {
+          "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时29分 ~ 19时29分]"
+        },
+        {
           "title": "美制造业数据托底风险偏好，美股反弹、美元续涨，黄金跌5%，白银跌至80关口下方",
           "url": "https://wallstreetcn.com/articles/3764730",
           "source": "华尔街见闻",
@@ -1059,18 +1086,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时18分 ~ 07时19分]"
-        },
-        {
-          "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时29分 ~ 18时30分]"
         },
         {
           "title": "AES（美国弗吉尼亚州电力巨头）美股盘后涨9%。",
@@ -1102,7 +1117,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
         },
@@ -1275,6 +1290,17 @@
           "time_info": "[01时31分 ~ 07时19分]"
         },
         {
+          "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
+          "url": "https://www.zhihu.com/question/1999853061464614005",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 19时29分]"
+        },
+        {
           "title": "李大霄解读金价一夜V型反转",
           "url": "https://www.toutiao.com/trending/7602460387761491507/",
           "source": "今日头条",
@@ -1284,17 +1310,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时05分 ~ 12时06分]"
-        },
-        {
-          "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
-          "url": "https://www.zhihu.com/question/1999853061464614005",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 18时30分]"
         },
         {
           "title": "在金价大涨5.5%的带动下，美国上市黄金矿业股盘前走高，纽蒙特上涨5.8%，巴里克矿业上涨5.3%，黄金ETF-SPDR（GLD）上涨5.9%",
@@ -1404,11 +1419,12 @@
           "url": "https://flash.jin10.com/detail/20260203181911181800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 19时29分]"
         }
       ]
     },

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T20:34:11.655751+08:00",
-  "total_titles_processed": 1869,
+  "generated_at": "2026-02-04T21:56:14.914056+08:00",
+  "total_titles_processed": 1981,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 72,
       "titles": [
         {
           "title": "民主党人炸锅：这么搞是吧，特朗普一家子都等着！",
@@ -89,6 +89,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时40分 ~ 06时19分]"
+        },
+        {
+          "title": "习近平同特朗普通电话",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
+        },
+        {
+          "title": "习近平同特朗普通电话",
+          "url": "https://www.douyin.com/hot/2389904",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
         },
         {
           "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
@@ -516,6 +538,17 @@
           "time_info": "07时19分"
         },
         {
+          "title": "习近平同美国总统特朗普通电话。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3049918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
           "title": "哥伦比亚总统佩特罗：已请美国总统特朗普斡旋与厄瓜多尔总统诺沃亚在贸易和毒品问题上的争端。",
           "url": "https://flash.jin10.com/detail/20260204043659433800",
           "source": "金十数据",
@@ -794,8 +827,23 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
+        {
+          "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32529750",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时28分 ~ 21时56分]"
+        },
         {
           "title": "美军击落伊朗无人机",
           "url": "https://www.douyin.com/hot/2388820",
@@ -812,6 +860,18 @@
           "time_info": "[09时02分 ~ 19时27分]"
         },
         {
+          "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
+          "url": "https://news.ifeng.com/c/8qTVQYD7em2",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时26分 ~ 21时56分]"
+        },
+        {
           "title": "如何看待美国在阿拉伯海击落伊朗无人机？",
           "url": "https://www.zhihu.com/question/2002278954355139608",
           "source": "知乎",
@@ -819,25 +879,25 @@
             13,
             12,
             10,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时40分 ~ 20时34分]"
+          "appearance_count": 14,
+          "time_info": "[13时40分 ~ 21时56分]"
         },
         {
-          "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32529750",
-          "source": "澎湃新闻",
+          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
+          "url": "https://wallstreetcn.com/articles/3764876",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            8,
-            7,
-            5
+            10,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时28分 ~ 20时34分]"
+          "appearance_count": 9,
+          "time_info": "[17时33分 ~ 21时56分]"
         },
         {
           "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
@@ -851,29 +911,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时40分 ~ 07时19分]"
-        },
-        {
-          "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
-          "url": "https://news.ifeng.com/c/8qTVQYD7em2",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时26分 ~ 20时34分]"
-        },
-        {
-          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
-          "url": "https://wallstreetcn.com/articles/3764876",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时33分 ~ 20时34分]"
         },
         {
           "title": "美军击落伊朗无人机后，油轮遭伊炮艇威胁",
@@ -1104,6 +1141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
+        },
+        {
+          "title": "伊朗与美国的谈判将于6日在阿曼举行",
+          "url": "https://wallstreetcn.com/livenews/3049923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "美官员：美军击落一架逼近美国航母的伊朗无人机",
@@ -1362,7 +1410,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -1373,8 +1421,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时19分 ~ 20时34分]"
+          "appearance_count": 19,
+          "time_info": "[07时19分 ~ 21时56分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -1385,8 +1433,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时02分 ~ 20时34分]"
+          "appearance_count": 18,
+          "time_info": "[09时02分 ~ 21时56分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -1399,8 +1447,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时40分 ~ 20时34分]"
+          "appearance_count": 14,
+          "time_info": "[13时40分 ~ 21时56分]"
         },
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -1458,8 +1506,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时40分 ~ 20时34分]"
+          "appearance_count": 14,
+          "time_info": "[13时40分 ~ 21时56分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -1571,6 +1619,17 @@
           "time_info": "[17时34分 ~ 18时29分]"
         },
         {
+          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2280791",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
+        },
+        {
           "title": "美股爆发AI恐慌性抛售",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%88%86%E5%8F%91AI%E6%81%90%E6%85%8C%E6%80%A7%E6%8A%9B%E5%94%AE",
           "source": "百度热搜",
@@ -1611,7 +1670,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -1666,7 +1725,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -1984,7 +2043,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
@@ -2088,6 +2147,28 @@
           "time_info": "12时04分"
         },
         {
+          "title": "调查：地缘风险与央行买盘支撑 2026年金价或再创新高",
+          "url": "https://flash.jin10.com/detail/20260204205419654800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
+          "title": "路透调查：2026年金价预计平均为每盎司4746.50美元，2027年为4745.42美元。2026年银价预计平均为每盎司79.50美元，2027年为71.80美元。",
+          "url": "https://flash.jin10.com/detail/20260204205023665800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
           "title": "高盛称，仍认为其对2026年12月金价在每盎司5,400美元的预测面临明显的上行风险。 高盛称，从时间线来看，1月金价波动更多由西方资金流驱动，而非中国投机所致。",
           "url": "https://wallstreetcn.com/livenews/3049511",
           "source": "华尔街见闻-快讯",
@@ -2137,7 +2218,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -2179,7 +2260,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "周二（2月3日）纽约尾盘，美国10年期国债收益率跌0.79个基点，报4.2695%。 两年期美债收益率跌0.41个基点，报3.5675%；30年期美债收益率跌0.83个基点，报4.9035%。",
@@ -2202,6 +2283,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
+        },
+        {
+          "title": "2/10年期美债收益率差逼近四年来最阔水平",
+          "url": "https://flash.jin10.com/detail/20260204204145278800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         }
       ]
     },

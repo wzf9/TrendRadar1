@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T22:36:45.629273+08:00",
-  "total_titles_processed": 2063,
+  "generated_at": "2026-02-04T23:36:37.455679+08:00",
+  "total_titles_processed": 2161,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 75,
+      "match_count": 78,
       "titles": [
         {
           "title": "民主党人炸锅：这么搞是吧，特朗普一家子都等着！",
@@ -80,6 +80,28 @@
           "time_info": "[13时40分 ~ 19时27分]"
         },
         {
+          "title": "习近平同特朗普通电话",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时55分 ~ 23时36分]"
+        },
+        {
+          "title": "习近平同特朗普通电话",
+          "url": "https://www.douyin.com/hot/2389904",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时55分 ~ 23时36分]"
+        },
+        {
           "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
           "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
           "source": "凤凰网",
@@ -91,26 +113,26 @@
           "time_info": "[00时40分 ~ 06时19分]"
         },
         {
-          "title": "习近平同特朗普通电话",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "百度热搜",
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://www.toutiao.com/trending/7603003215299149878/",
+          "source": "今日头条",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[21时55分 ~ 22时36分]"
+          "time_info": "[22时36分 ~ 23时36分]"
         },
         {
-          "title": "习近平同特朗普通电话",
-          "url": "https://www.douyin.com/hot/2389904",
-          "source": "抖音",
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "bilibili 热搜",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[21时55分 ~ 22时36分]"
+          "time_info": "[22时36分 ~ 23时36分]"
         },
         {
           "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
@@ -123,28 +145,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时03分 ~ 15时38分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://www.toutiao.com/trending/7603003215299149878/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
         },
         {
           "title": "英国政府：英国首相斯塔默、美国总统特朗普承认迪戈加西亚岛的战略重要性。",
@@ -311,6 +311,18 @@
           "time_info": "[00时40分 ~ 01时44分]"
         },
         {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://wallstreetcn.com/articles/3764980",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时36分 ~ 23时36分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普觉得，政府关门只会伤害经济。",
           "url": "https://wallstreetcn.com/livenews/3049273",
           "source": "华尔街见闻-快讯",
@@ -405,6 +417,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时39分 ~ 04时25分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32534170",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时34分 ~ 23时36分]"
         },
         {
           "title": "特朗普回应爱泼斯坦案：我是清白的",
@@ -515,17 +538,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
-        },
-        {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://wallstreetcn.com/articles/3764980",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
         },
         {
           "title": "美国总统特朗普：联邦政府应介入选举事务。",
@@ -704,6 +716,17 @@
           "time_info": "06时19分"
         },
         {
+          "title": "印度官员试图平息各界对特朗普贸易协议的担忧",
+          "url": "https://wallstreetcn.com/livenews/3049972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "特朗普与哥伦比亚总统佩特罗会晤 讨论打击毒品走私",
           "url": "https://flash.jin10.com/detail/20260204024423166800",
           "source": "金十数据",
@@ -779,6 +802,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "海湾国家官员表示，目前的计划是由美国总统特使威特科夫和特朗普女婿库什纳代表美国。",
+          "url": "https://flash.jin10.com/detail/20260204232402509800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         },
         {
           "title": "美国贸易代表格里尔：特朗普签署法案，重新授权《非洲增长与机会法案》。 《非洲增长与机会法案》贸易优惠计划已获授权延长至2026年12月31日，且追溯效力至2025年9月30日。 政府将与国会合作，对非洲贸易优惠计划进行现代化改造。",
@@ -861,8 +895,20 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
+        {
+          "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
+          "url": "https://news.ifeng.com/c/8qTVQYD7em2",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[19时26分 ~ 23时36分]"
+        },
         {
           "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32529750",
@@ -876,20 +922,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时28分 ~ 22时36分]"
-        },
-        {
-          "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
-          "url": "https://news.ifeng.com/c/8qTVQYD7em2",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时26分 ~ 22时36分]"
+          "appearance_count": 13,
+          "time_info": "[16时28分 ~ 23时36分]"
         },
         {
           "title": "美军击落伊朗无人机",
@@ -916,8 +950,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时33分 ~ 22时36分]"
+          "appearance_count": 12,
+          "time_info": "[17时33分 ~ 23时36分]"
         },
         {
           "title": "如何看待美国在阿拉伯海击落伊朗无人机？",
@@ -1053,6 +1087,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时41分 ~ 04时25分]"
+        },
+        {
+          "title": "美军：击落一架“挑衅性”接近美军航母的伊朗无人机",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32527648",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时36分 ~ 23时36分]"
         },
         {
           "title": "伊朗与美国的谈判将于6日在阿曼举行",
@@ -1311,17 +1356,6 @@
           "time_info": "06时19分"
         },
         {
-          "title": "美军：击落一架“挑衅性”接近美军航母的伊朗无人机",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32527648",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
           "title": "消息人士：伊朗希望改变与美国进行核谈判的地点和形式",
           "url": "https://flash.jin10.com/detail/20260204010708648800",
           "source": "金十数据",
@@ -1350,7 +1384,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时36分"
         },
@@ -1432,6 +1466,17 @@
           "time_info": "02时41分"
         },
         {
+          "title": "海湾国家官员表示，正在讨论的谈判机制旨在让多个国家协助斡旋伊朗与美国之间的谈判。",
+          "url": "https://flash.jin10.com/detail/20260204232324506800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "伊朗外交部：伊朗外长和阿曼外长通话，讨论了双边关系和地区局势，并交换了意见。",
           "url": "https://flash.jin10.com/detail/20260204005831676800",
           "source": "金十数据",
@@ -1471,7 +1516,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时36分"
         },
@@ -1482,7 +1527,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时36分"
         }
@@ -1490,7 +1535,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -1501,8 +1546,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时19分 ~ 22时36分]"
+          "appearance_count": 22,
+          "time_info": "[07时19分 ~ 23时36分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -1513,8 +1558,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时02分 ~ 22时36分]"
+          "appearance_count": 21,
+          "time_info": "[09时02分 ~ 23时36分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -1527,8 +1572,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时40分 ~ 22时36分]"
+          "appearance_count": 17,
+          "time_info": "[13时40分 ~ 23时36分]"
         },
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -1586,8 +1631,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时40分 ~ 22时36分]"
+          "appearance_count": 17,
+          "time_info": "[13时40分 ~ 23时36分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -1663,6 +1708,19 @@
           "time_info": "[06时19分 ~ 07时19分]"
         },
         {
+          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2280791",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时55分 ~ 23时36分]"
+        },
+        {
           "title": "（美股）费城金银指数收涨4.63%，报398.43点。 （全球时段）纽约证交所ARCA金矿开采商指数涨4.29%，报2815.40点。 （美股）原材料指数收涨4.04%，金属与矿业指数收涨5.35%。",
           "url": "https://wallstreetcn.com/livenews/3049350",
           "source": "华尔街见闻-快讯",
@@ -1685,18 +1743,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时03分 ~ 13时41分]"
-        },
-        {
-          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2280791",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时55分 ~ 22时36分]"
         },
         {
           "title": "AMD美股盘前跌超7％，消息面上，公司下一季度营收指引不及市场预期。",
@@ -1831,6 +1877,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "美股走低纳指一度下跌1% 软件股继续承压",
+          "url": "https://flash.jin10.com/detail/20260204232138533800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
+          "title": "现货黄金短线从5037美元附近跳水，逼近4967美元，日内整体涨幅迅速收窄至0.5%。 现货白银回落至89美元一线，目前涨4.6%，美股盘前还曾涨至92.2043美元。",
+          "url": "https://wallstreetcn.com/livenews/3049959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         }
       ]
     },
@@ -1870,7 +1938,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时36分"
         },
@@ -2188,7 +2256,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时36分"
         },

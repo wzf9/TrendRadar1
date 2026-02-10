@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T17:49:50.408450+08:00",
-  "total_titles_processed": 1393,
+  "generated_at": "2026-02-10T18:44:20.036205+08:00",
+  "total_titles_processed": 1482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
@@ -34,6 +34,20 @@
           "time_info": "[01时42分 ~ 07时29分]"
         },
         {
+          "title": "谷爱凌回应特朗普大骂冬奥运动员",
+          "url": "https://www.toutiao.com/trending/7605068464549744178/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            11,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时23分 ~ 18时44分]"
+        },
+        {
           "title": "特朗普：我犯了大错",
           "url": "https://news.ifeng.com/c/8qctqBdiVbv",
           "source": "凤凰网",
@@ -57,20 +71,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时23分 ~ 16时39分]"
-        },
-        {
-          "title": "谷爱凌回应特朗普大骂冬奥运动员",
-          "url": "https://www.toutiao.com/trending/7605068464549744178/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            11,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时23分 ~ 17时49分]"
         },
         {
           "title": "据华尔街日报：特朗普政府官员最近几周向国会共和党人施压，要求将投资者禁令作为修正案纳入目前正在众议院和参议院审议的两项主要住房法案中。",
@@ -173,6 +173,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 05时30分]"
+        },
+        {
+          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
+          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
         },
         {
           "title": "特朗普设定15%增长目标 沃什入主美联储压力倍增",
@@ -313,7 +324,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时49分"
         },
@@ -354,8 +365,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时17分 ~ 17时49分]"
+          "appearance_count": 11,
+          "time_info": "[09时17分 ~ 18时44分]"
         },
         {
           "title": "美股收盘：三大指数集体上涨 道指再创新高 纳指涨近1%",
@@ -388,11 +399,12 @@
           "url": "https://wallstreetcn.com/livenews/3052937",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 18时44分]"
         },
         {
           "title": "金十图示：2026年02月09日（周一）美股热门股票行情一览（美股收盘）",
@@ -552,7 +564,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时49分"
         },
@@ -582,7 +594,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "伊朗方面警告称，内塔尼亚胡访美将对谈判造成毁灭性影响。",
@@ -594,6 +606,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
+        },
+        {
+          "title": "阿曼苏丹同伊朗最高领袖顾问讨论伊美谈判进展",
+          "url": "https://wallstreetcn.com/livenews/3052958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
         },
         {
           "title": "美建议美商船远离伊朗领海",
@@ -628,6 +651,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时28分 ~ 07时29分]"
+        },
+        {
+          "title": "伊朗外交部：若伊朗遭袭，将予以毁灭性回击",
+          "url": "https://wallstreetcn.com/livenews/3052952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
         },
         {
           "title": "伊朗空军司令：军队处于最高级别战备状态",
@@ -823,11 +857,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 16时39分]"
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 18时44分]"
         },
         {
           "title": "法巴银行：金价年内有望涨至6000美元 涨势合乎逻辑",
@@ -836,7 +871,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时49分"
         },

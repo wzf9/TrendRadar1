@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T18:31:16.827318+08:00",
-  "total_titles_processed": 1618,
+  "generated_at": "2026-02-13T19:24:35.216613+08:00",
+  "total_titles_processed": 1716,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 58,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -30,19 +30,6 @@
           "time_info": "[00时45分 ~ 07时20分]"
         },
         {
-          "title": "特朗普答凤凰：中美关系良好，两国元首今年实现互访",
-          "url": "https://news.ifeng.com/c/8qhfIw9PImo",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时11分 ~ 18时31分]"
-        },
-        {
           "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
           "url": "https://news.ifeng.com/c/8qgZNx2x3dB",
           "source": "凤凰网",
@@ -52,6 +39,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时45分 ~ 09时12分]"
+        },
+        {
+          "title": "特朗普答凤凰：中美关系良好，两国元首今年实现互访",
+          "url": "https://news.ifeng.com/c/8qhfIw9PImo",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时11分 ~ 19时24分]"
         },
         {
           "title": "特朗普威胁伊朗：不达成协议，就进入第二阶段",
@@ -112,6 +113,20 @@
           "time_info": "[12时10分 ~ 18时31分]"
         },
         {
+          "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
+          "url": "https://www.cls.cn/detail/2289315",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时53分 ~ 19时24分]"
+        },
+        {
           "title": "特朗普称必须与伊朗达成协议 Anthropic完成300亿美元融资 | 环球市场",
           "url": "https://www.cls.cn/detail/2289062",
           "source": "财联社热门",
@@ -126,18 +141,16 @@
           "time_info": "[09时11分 ~ 15时43分]"
         },
         {
-          "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
-          "url": "https://www.cls.cn/detail/2289315",
-          "source": "财联社热门",
+          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
+          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
+          "source": "凤凰网",
           "ranks": [
-            13,
-            12,
-            10,
-            9
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时53分 ~ 18时31分]"
+          "appearance_count": 4,
+          "time_info": "[17时33分 ~ 19时24分]"
         },
         {
           "title": "中方回应“特朗普将于4月初访华”",
@@ -165,18 +178,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
-        },
-        {
-          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
-          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时33分 ~ 18时31分]"
         },
         {
           "title": "派拉蒙天舞（Paramount SkyDance）高管Ellison上周会见了美国总统特朗普。（CNN）",
@@ -335,6 +336,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时45分 ~ 05时24分]"
+        },
+        {
+          "title": "特朗普称印度同意不再购买俄油？俄方回应：没听说过",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32593433",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时30分 ~ 19时24分]"
         },
         {
           "title": "美国总统特朗普：就业报告在某些方面非常出色。",
@@ -504,17 +517,6 @@
           "time_info": "[09时11分 ~ 09时12分]"
         },
         {
-          "title": "特朗普称印度同意不再购买俄油？俄方回应：没听说过",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32593433",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时30分 ~ 18时31分]"
-        },
-        {
           "title": "美国总统特朗普宣扬股市上涨。 特朗普称，环境保护署（EPA）的行动将有助于降低汽车价格。",
           "url": "https://wallstreetcn.com/livenews/3054685",
           "source": "华尔街见闻-快讯",
@@ -548,6 +550,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-13）",
+          "url": "https://flash.jin10.com/detail/20260213184225992800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "美国总统特朗普：与委内瑞拉代总统罗德里格斯沟通得不错。",
@@ -649,6 +662,17 @@
           "time_info": "01时51分"
         },
         {
+          "title": "逾6亿美元拨款“被砍”，4州起诉特朗普政府",
+          "url": "https://wallstreetcn.com/livenews/3055132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "美国总统特朗普：我们基本上已经叫停了美国所有的风力发电机项目。",
           "url": "https://flash.jin10.com/detail/20260213025752447800",
           "source": "金十数据",
@@ -685,7 +709,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
@@ -696,8 +720,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时11分 ~ 18时31分]"
+          "appearance_count": 13,
+          "time_info": "[09时11分 ~ 19时24分]"
         },
         {
           "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
@@ -723,6 +747,18 @@
           "time_info": "[09时11分 ~ 16时31分]"
         },
         {
+          "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
+          "url": "https://wallstreetcn.com/articles/3765638",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时53分 ~ 19时24分]"
+        },
+        {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
           "url": "https://wallstreetcn.com/articles/3765624",
           "source": "华尔街见闻",
@@ -732,20 +768,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时10分 ~ 18时31分]"
-        },
-        {
-          "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
-          "url": "https://wallstreetcn.com/articles/3765638",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时53分 ~ 18时31分]"
+          "appearance_count": 11,
+          "time_info": "[12时10分 ~ 19时24分]"
         },
         {
           "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
@@ -782,8 +806,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时46分 ~ 18时31分]"
+          "appearance_count": 8,
+          "time_info": "[14时46分 ~ 19时24分]"
         },
         {
           "title": "CPI前夕美股高开低走，盘中标普纳指跌超1%、思科跌超10%，白银跳水超7%",
@@ -797,6 +821,17 @@
           "time_info": "[01时51分 ~ 02时45分]"
         },
         {
+          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
+          "url": "https://www.zhihu.com/question/2005568531748648323",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时42分 ~ 19时24分]"
+        },
+        {
           "title": "美国CPI前夕，美股指盘中转跌，盘中纳指跌超1%、思科跌超10%",
           "url": "https://wallstreetcn.com/articles/3765553",
           "source": "华尔街见闻",
@@ -808,17 +843,6 @@
           "time_info": "[00时45分 ~ 00时46分]"
         },
         {
-          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
-          "url": "https://www.zhihu.com/question/2005568531748648323",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时42分 ~ 18时31分]"
-        },
-        {
           "title": "美股存储芯片指数收涨不到1.4%",
           "url": "https://wallstreetcn.com/livenews/3054760",
           "source": "华尔街见闻-快讯",
@@ -828,6 +852,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "美股油气股开年大涨超20% 分析师看好2026年全年行情",
+          "url": "https://flash.jin10.com/detail/20260213190005725800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "Rivian美股盘前大涨19%，公司第四季度业绩超预期，且预计2026年交付量将激增53%。",
@@ -1312,17 +1347,6 @@
           "time_info": "[03时44分 ~ 13时53分]"
         },
         {
-          "title": "伊朗最高领袖顾问：如美方不提过分要求，则谈判可向积极方向发展",
-          "url": "https://wallstreetcn.com/livenews/3055118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
           "title": "美国能源部长赖特：俄罗斯和伊朗在委内瑞拉的影响力将会减弱。",
           "url": "https://flash.jin10.com/detail/20260213041056497800",
           "source": "金十数据",
@@ -1333,6 +1357,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时23分 ~ 05时24分]"
+        },
+        {
+          "title": "伊朗最高领袖顾问：如美方不提过分要求，则谈判可向积极方向发展",
+          "url": "https://wallstreetcn.com/livenews/3055118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时24分]"
         },
         {
           "title": "伊朗多款反舰导弹与卫星系统亮相",
@@ -1374,7 +1410,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -1396,7 +1432,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         }
@@ -1432,11 +1468,12 @@
             12,
             15,
             16,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时45分 ~ 18时31分]"
+          "appearance_count": 23,
+          "time_info": "[00时45分 ~ 19时24分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -1454,8 +1491,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时45分 ~ 18时31分]"
+          "appearance_count": 23,
+          "time_info": "[00时45分 ~ 19时24分]"
         },
         {
           "title": "DeepSeek变冷淡了",
@@ -1478,11 +1515,12 @@
           "ranks": [
             12,
             13,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时42分 ~ 18时31分]"
+          "appearance_count": 7,
+          "time_info": "[15时42分 ~ 19时24分]"
         },
         {
           "title": "DeepSeek回应被指冷淡",
@@ -1598,8 +1636,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时11分 ~ 18时31分]"
+          "appearance_count": 13,
+          "time_info": "[09时11分 ~ 19时24分]"
         },
         {
           "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",

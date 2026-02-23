@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T02:37:46.422879+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-02-24T02:48:03.243541+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 02时48分]"
         },
         {
           "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 02时48分]"
         },
         {
           "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
@@ -37,8 +37,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 02时48分]"
+        },
+        {
+          "title": "欧洲央行行长拉加德：央行独立性至关重要。 美国总统特朗普的美联储主席提名人凯文·沃什面临的最大挑战将是做好自己在美联储的本职工作。",
+          "url": "https://wallstreetcn.com/livenews/3057611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 02时48分]"
         },
         {
           "title": "据英国《金融时报》：特朗普的“和平委员会”为加沙探索推出稳定币。",
@@ -74,17 +85,6 @@
           "time_info": "00时44分"
         },
         {
-          "title": "欧洲央行行长拉加德：央行独立性至关重要。 美国总统特朗普的美联储主席提名人凯文·沃什面临的最大挑战将是做好自己在美联储的本职工作。",
-          "url": "https://wallstreetcn.com/livenews/3057611",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时37分"
-        },
-        {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
           "url": "https://www.cls.cn/detail/2292753",
           "source": "财联社热门",
@@ -93,8 +93,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 02时48分]"
         },
         {
           "title": "美国参议院民主党成员Warren：总统特朗普的政府考虑出售联邦学生贷款债务组合。",
@@ -103,9 +103,42 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 02时48分]"
+        },
+        {
+          "title": "德国10年期国债收益率跌约3个基点，特朗普关税带来的不确定性迫使投资者避险",
+          "url": "https://wallstreetcn.com/livenews/3057598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 02时48分]"
+        },
+        {
+          "title": "美国参议院少数党领袖舒默：参议院民主党将阻止特朗普关税延期。",
+          "url": "https://flash.jin10.com/detail/20260224002802607800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 02时48分]"
+        },
+        {
+          "title": "英媒：特朗普“和平委员会”拟推稳定币，以重塑加沙经济",
+          "url": "https://flash.jin10.com/detail/20260224002704978800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 02时48分]"
         },
         {
           "title": "道指暴跌超600点，特朗普在周末上调全球关税——恐将让全球贸易重新陷入混乱",
@@ -117,39 +150,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
-        },
-        {
-          "title": "德国10年期国债收益率跌约3个基点，特朗普关税带来的不确定性迫使投资者避险",
-          "url": "https://wallstreetcn.com/livenews/3057598",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时37分"
-        },
-        {
-          "title": "美国参议院少数党领袖舒默：参议院民主党将阻止特朗普关税延期。",
-          "url": "https://flash.jin10.com/detail/20260224002802607800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时37分"
-        },
-        {
-          "title": "英媒：特朗普“和平委员会”拟推稳定币，以重塑加沙经济",
-          "url": "https://flash.jin10.com/detail/20260224002704978800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时37分"
         }
       ]
     },
@@ -165,8 +165,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 02时48分]"
         },
         {
           "title": "伊朗外长：有可能达成比2015年伊核协议“更好的协议”",
@@ -177,8 +177,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 02时48分]"
         },
         {
           "title": "美国被曝已决定对伊朗发动军事打击，预计 23 日或 24 日，是极限施压还是真要打？",
@@ -188,8 +188,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 02时48分]"
+        },
+        {
+          "title": "与美国达成“临时协议”？伊朗：毫无根据",
+          "url": "https://news.ifeng.com/c/8qyqpPm0Q9R",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 02时48分]"
+        },
+        {
+          "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
+          "url": "https://news.ifeng.com/c/8qyqxrcRN3h",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 02时48分]"
         },
         {
           "title": "以总理：若遭伊朗袭击 将以其无法想象的力度回击",
@@ -203,28 +225,6 @@
           "time_info": "00时44分"
         },
         {
-          "title": "与美国达成“临时协议”？伊朗：毫无根据",
-          "url": "https://news.ifeng.com/c/8qyqpPm0Q9R",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时37分]"
-        },
-        {
-          "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
-          "url": "https://news.ifeng.com/c/8qyqxrcRN3h",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时37分]"
-        },
-        {
           "title": "美国已经得到委内瑞拉了，为什么还要去搞伊朗呢?",
           "url": "https://www.zhihu.com/question/2005108327592519351",
           "source": "知乎",
@@ -233,8 +233,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 02时48分]"
         },
         {
           "title": "美军重兵合围伊朗",
@@ -245,8 +245,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 02时48分]"
         },
         {
           "title": "以总理：若遭伊朗袭击 将以其无法想象的力度回击",
@@ -273,8 +273,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 02时48分]"
         },
         {
           "title": "金十图示：2026年02月23日（周一）美股热门股票行情一览（美股盘中）",
@@ -283,9 +283,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 02时48分]"
         },
         {
           "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
@@ -296,8 +296,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 02时48分]"
         },
         {
           "title": "金十图示：2026年02月23日（周一）热门中概股行情一览（美股盘中）",
@@ -306,9 +306,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 02时48分]"
         },
         {
           "title": "美股延续跌势，纳指下跌1.01%。",
@@ -353,8 +353,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 02时48分]"
         }
       ]
     },

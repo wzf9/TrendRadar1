@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T13:44:47.139103+08:00",
-  "total_titles_processed": 1112,
+  "generated_at": "2026-02-27T14:39:29.962983+08:00",
+  "total_titles_processed": 1189,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "白宫官员希望以色列先打击伊朗",
@@ -68,8 +68,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时44分 ~ 13时44分]"
+          "appearance_count": 15,
+          "time_info": "[00时44分 ~ 14时39分]"
         },
         {
           "title": "据以色列媒体：美国国务卿鲁比奥关于伊朗导弹的言论未能说服国会民主党领导层。",
@@ -105,17 +105,6 @@
           "time_info": "09时04分"
         },
         {
-          "title": "据福克斯新闻：美国众议员Fallon表示，如果伊朗政权不停止铀浓缩及对恐怖主义的国家支持，所有选项都在考虑之中。",
-          "url": "https://flash.jin10.com/detail/20260227012422570800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
           "title": "伊美第三轮谈判结束，伊朗外长称取得良好进展，美媒称美方谈判期间感到失望",
           "url": "https://wallstreetcn.com/articles/3766294",
           "source": "华尔街见闻",
@@ -125,8 +114,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时04分 ~ 13时44分]"
+          "appearance_count": 4,
+          "time_info": "[09时04分 ~ 14时39分]"
+        },
+        {
+          "title": "据福克斯新闻：美国众议员Fallon表示，如果伊朗政权不停止铀浓缩及对恐怖主义的国家支持，所有选项都在考虑之中。",
+          "url": "https://flash.jin10.com/detail/20260227012422570800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时51分"
         },
         {
           "title": "库什纳与美国特使Witkoff对2月26日早间与伊朗的磋商情况感到失望。（Axios）",
@@ -338,7 +338,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -437,7 +437,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -462,6 +462,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "伊朗外交部发言人：本轮伊美谈判非常深入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32661028",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "据伊朗国家电视台：美国代表团参加伊朗问题会谈的车辆离开会场。",
@@ -686,8 +697,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时04分 ~ 13时44分]"
+          "appearance_count": 4,
+          "time_info": "[09时04分 ~ 14时39分]"
+        },
+        {
+          "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
+          "url": "https://news.ifeng.com/c/8r4zqmCwYJf",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 14时39分]"
         },
         {
           "title": "美国参议院民主党成员Warren发函货币监理署（OCC）、联邦存款保险公司（FDID）、以及EREBOR Bank。 Warren向亚马逊询问，总统特朗普的关税是否造成（该公司）涨价。",
@@ -722,17 +744,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
-        },
-        {
-          "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
-          "url": "https://news.ifeng.com/c/8r4zqmCwYJf",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时44分"
         },
         {
           "title": "媒体：特朗普旨在借能源让古巴更加依赖美国",
@@ -807,7 +818,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -908,6 +919,19 @@
           "time_info": "[00时45分 ~ 01时51分]"
         },
         {
+          "title": "谷歌Nano Banana 2亮相：专业能力全面下放 成本腰斩一半",
+          "url": "https://www.cls.cn/detail/2296526",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时04分 ~ 14时39分]"
+        },
+        {
           "title": "谷歌公司：在AI MAX的文本指引中扩大测试人员的接入权限。 在谷歌翻译中推出全新人工智能驱动功能。",
           "url": "https://wallstreetcn.com/livenews/3059712",
           "source": "华尔街见闻-快讯",
@@ -921,29 +945,29 @@
           "time_info": "[02时37分 ~ 04时25分]"
         },
         {
-          "title": "谷歌Nano Banana 2亮相：专业能力全面下放 成本腰斩一半",
-          "url": "https://www.cls.cn/detail/2296526",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时04分 ~ 13时44分]"
-        },
-        {
           "title": "谷歌推出 Nano Banana 2，有哪些亮点值得关注？",
           "url": "https://www.zhihu.com/question/2010521633262101357",
           "source": "知乎",
           "ranks": [
             13,
-            11
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时03分 ~ 14时39分]"
+        },
+        {
+          "title": "媒体消息称，韩国批准谷歌出口地图数据的申请。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3059997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时03分 ~ 13时44分]"
+          "time_info": "[13时44分 ~ 14时39分]"
         },
         {
           "title": "韩国批准谷歌的地图数据出口申请。",
@@ -952,7 +976,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -966,17 +990,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
-        },
-        {
-          "title": "媒体消息称，韩国批准谷歌出口地图数据的申请。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3059997",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时44分"
         },
         {
           "title": "谷歌：在谷歌翻译中推出全新人工智能驱动功能。",
@@ -1072,8 +1085,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 13时44分]"
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 14时39分]"
         },
         {
           "title": "戴尔(DELL.N)美股盘后涨幅扩大至12%。",
@@ -1203,6 +1216,18 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "硅谷“最贵华人”被OpenAI挖走",
+          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 14时39分]"
+        },
+        {
           "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
           "url": "https://flash.jin10.com/detail/20260227025809636800",
           "source": "金十数据",
@@ -1224,17 +1249,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
-        },
-        {
-          "title": "硅谷“最贵华人”被OpenAI挖走",
-          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时44分"
         },
         {
           "title": "OpenAI：已解决ChatGPT相关问题。",

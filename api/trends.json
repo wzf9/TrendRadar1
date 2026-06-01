@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-01T07:55:48.739373+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2026-06-01T10:32:35.464114+08:00",
+  "total_titles_processed": 703,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "伊朗总统已向最高领袖提出辞职？官方回应",
           "url": "https://news.ifeng.com/c/8taeRM6Zu8b",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时47分 ~ 07时55分]"
+          "appearance_count": 4,
+          "time_info": "[05时47分 ~ 10时32分]"
         },
         {
           "title": "美国财长贝森特：霍尔木兹海峡必须恢复至（美国和以色列挑起伊朗战争）之前的水平。 海峡关闭直接造成化肥价格上涨。",
@@ -53,6 +54,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时55分 ~ 06时47分]"
+        },
+        {
+          "title": "战争阴霾笼罩世界杯，伊朗国家队运动员仍未获得赴美签证",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33276489",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时09分 ~ 10时32分]"
         },
         {
           "title": "伊朗外交部长：我们不应该重视猜测。",
@@ -165,18 +179,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时09分 ~ 05时47分]"
-        },
-        {
-          "title": "战争阴霾笼罩世界杯，伊朗国家队运动员仍未获得赴美签证",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33276489",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时09分 ~ 07时55分]"
         },
         {
           "title": "法国总统马克龙：与沙特王储、阿曼苏丹、阿联酋总统和埃及总统进行了交谈，我向他们传达了同一个信息——美国与伊朗之间尽快达成协议至关重要，必须把握机会。",
@@ -361,6 +363,17 @@
           "time_info": "[00时55分 ~ 01时53分]"
         },
         {
+          "title": "伊朗总统：要么强硬前行，要么牺牲",
+          "url": "https://news.ifeng.com/c/8taeRM6ZuHm",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
           "title": "伊朗总统府再度否认佩泽希齐扬辞职传闻",
           "url": "https://flash.jin10.com/detail/20260601043137410800",
           "source": "金十数据",
@@ -392,12 +405,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
+        },
+        {
+          "title": "伊朗再度否认总统辞职传闻",
+          "url": "https://www.toutiao.com/trending/7645634225568628777/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
@@ -408,8 +432,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 07时55分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 10时32分]"
         },
         {
           "title": "特朗普将伊拉克纳入特使汤姆·巴拉克治叙职能范围",
@@ -461,7 +485,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -472,7 +496,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -512,6 +536,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时09分 ~ 05时47分]"
+        },
+        {
+          "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
+          "url": "https://news.ifeng.com/c/8taubWZltKg",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         },
         {
           "title": "美媒称特朗普政府损失大量法律人才 特朗普：是件好事",

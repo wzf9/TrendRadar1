@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T18:28:29.837173+08:00",
-  "total_titles_processed": 1226,
+  "generated_at": "2026-06-23T21:37:21.887254+08:00",
+  "total_titles_processed": 1389,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 59,
+      "match_count": 62,
       "titles": [
         {
           "title": "伊朗谈判团队称伊美谈判达成5项要点",
@@ -22,20 +22,6 @@
           "time_info": "[01时24分 ~ 14时39分]"
         },
         {
-          "title": "如何看待伊朗队在洛杉矶更衣室留下的感谢信？",
-          "url": "https://www.zhihu.com/question/2052442119843701055",
-          "source": "知乎",
-          "ranks": [
-            12,
-            3,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 10时55分]"
-        },
-        {
           "title": "比利时0-0伊朗",
           "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
           "source": "bilibili 热搜",
@@ -48,8 +34,22 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时24分 ~ 18时28分]"
+          "appearance_count": 10,
+          "time_info": "[01时24分 ~ 21时37分]"
+        },
+        {
+          "title": "如何看待伊朗队在洛杉矶更衣室留下的感谢信？",
+          "url": "https://www.zhihu.com/question/2052442119843701055",
+          "source": "知乎",
+          "ranks": [
+            12,
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 10时55分]"
         },
         {
           "title": "王毅会见伊朗最高国家安全委员会副秘书",
@@ -300,7 +300,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -338,6 +338,17 @@
           "time_info": "06时31分"
         },
         {
+          "title": "为期60天，美国暂时解除对伊朗石油制裁，这是过去数十年来第一次！",
+          "url": "https://wallstreetcn.com/articles/3775244",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "伊朗副外长披露伊美谈判后续技术层面磋商机制",
           "url": "https://wallstreetcn.com/livenews/3123064",
           "source": "华尔街见闻-快讯",
@@ -347,6 +358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬与巴基斯坦陆军参谋长穆尼尔讨论防务合作。",
+          "url": "https://wallstreetcn.com/livenews/3123462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "土耳其总统埃尔多安告诉伊朗总统佩泽希齐扬，土耳其欢迎伊朗和美国达成的协议。",
@@ -454,7 +476,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -476,7 +498,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -512,6 +534,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "美财政部放宽对伊朗能源相关交易限制",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33431377",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "豁免60天、6800万桶待售：伊朗火速游说亚洲，大买家却按兵不动",
@@ -553,7 +586,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -575,7 +608,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -619,7 +652,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -674,7 +707,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         }
@@ -682,7 +715,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
@@ -777,6 +810,19 @@
           "time_info": "[06时31分 ~ 10时55分]"
         },
         {
+          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2052711074215081192",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 21时37分]"
+        },
+        {
           "title": "特朗普政府加码量子战略！设定2028年科研级量子计算机突破目标",
           "url": "https://www.cls.cn/detail/2406197",
           "source": "财联社热门",
@@ -787,18 +833,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时54分 ~ 14时39分]"
-        },
-        {
-          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2052711074215081192",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时38分 ~ 18时28分]"
         },
         {
           "title": "伊朗代表团暂停伊美谈判，抗议特朗普威胁言论",
@@ -829,9 +863,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 21时37分]"
         },
         {
           "title": "美国总统特朗普：被解冻的伊朗资产将用于购买美国农民生产的农产品。",
@@ -851,7 +885,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -1005,7 +1039,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -1030,12 +1064,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "【特朗普称允许霍尔木兹海峡保持开放】美国总统特朗普23日在社交媒体发文说，基于伊朗作出的让步，他已同意允许霍尔木兹海峡保持开放，不再实施海上封锁。“不过，所有船只仍将原地待命，以备必要时重新实施封锁。尽管目前看来，这种可能性极低。”（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3123433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "特朗普：昨天有1900万桶石油从霍尔木兹海峡流出",
+          "url": "https://wallstreetcn.com/livenews/3123432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
@@ -1086,6 +1142,17 @@
           "time_info": "[01时24分 ~ 10时55分]"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-06-23）",
+          "url": "https://flash.jin10.com/detail/20260623211452556800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "美股科技股深夜下挫",
           "url": "https://www.douyin.com/hot/2544157",
           "source": "抖音",
@@ -1130,6 +1197,17 @@
           "time_info": "14时39分"
         },
         {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3123463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "金十图示：2026年06月22日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260623004321791800",
           "source": "金十数据",
@@ -1158,7 +1236,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -1172,6 +1250,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "美股期货跌幅扩大，纳斯达克100指数期货跌超3%，标普500指数期货跌1.5%，道指期货跌0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3123456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "欧美股指期货跌幅扩大，标普500指数期货下跌0.9%，纳斯达克期货指数下跌1.6%；欧洲斯托克50指数期货下跌0.9%，德国DAX指数期货下跌1.0%，英国富时指数期货下跌1.0%。",
@@ -1216,6 +1305,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "SpaceX美股盘前涨幅扩大至2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3123440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "Credo Technology Group Holding Ltd.维持超过11%的涨幅，暂报303.90美元，美股盘初曾涨至308.67美元创盘中历史新高，Evercore ISI给予该公司超配的初始评级、目标价325美元，分析师Mark Lipacis认为，Credo将越来越被看做一家广泛的铜缆与光纤连接玩家/铜缆+光纤综合方案供应商。",
@@ -1308,7 +1408,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         }
@@ -1386,11 +1486,12 @@
           "url": "https://wallstreetcn.com/articles/3775156",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时59分 ~ 18时28分]"
+          "appearance_count": 7,
+          "time_info": "[07时59分 ~ 21时37分]"
         },
         {
           "title": "科技巨头下挫拖累美股大盘，芯片股指、小盘股指逆市新高，原油高开走跌，美债收益率“补涨”",
@@ -1408,11 +1509,12 @@
           "url": "https://wallstreetcn.com/articles/3775250",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 21时37分]"
         },
         {
           "title": "长周末归来，美债收益率普遍涨超5个基点",
@@ -1482,6 +1584,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
+          "url": "https://www.zhihu.com/question/2044875348719005741",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 21时37分]"
+        },
+        {
           "title": "DeepSeek 2.0时刻？智谱市值突破万亿港元，GLM-5.2刷屏华尔街",
           "url": "https://wallstreetcn.com/articles/3775170",
           "source": "华尔街见闻",
@@ -1494,24 +1608,13 @@
           "time_info": "[01时24分 ~ 07时59分]"
         },
         {
-          "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
-          "url": "https://www.zhihu.com/question/2044875348719005741",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时38分 ~ 18时28分]"
-        },
-        {
           "title": "DeepSeek新部门疯狂招人，负责人否认“不招外国人”",
           "url": "https://wallstreetcn.com/livenews/3123327",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         }

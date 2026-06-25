@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T10:29:44.661140+08:00",
-  "total_titles_processed": 889,
+  "generated_at": "2026-06-25T14:39:21.253535+08:00",
+  "total_titles_processed": 1093,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
@@ -116,9 +116,31 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "美参议院以50∶48通过决议，特朗普愤怒回应",
+          "url": "https://news.ifeng.com/c/8uEoIOrELpr",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 14时39分]"
+        },
+        {
+          "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
+          "url": "https://news.ifeng.com/c/8uFCJ6kPTr8",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "特朗普：不接受美伊协议包含任何涉及航运的费用",
@@ -141,17 +163,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
-        },
-        {
-          "title": "美参议院以50∶48通过决议，特朗普愤怒回应",
-          "url": "https://news.ifeng.com/c/8uEoIOrELpr",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时29分"
         },
         {
           "title": "美国总统特朗普：石油公司没有足够降低汽油价格；今天与石油公司进行了交谈。",
@@ -326,8 +337,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时06分 ~ 10时29分]"
+          "appearance_count": 5,
+          "time_info": "[06时06分 ~ 14时39分]"
         },
         {
           "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
@@ -349,8 +360,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 10时29分]"
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 14时39分]"
         },
         {
           "title": "温蒂汉堡（WEN）维持超过24%的涨幅，报7.777美元，美股盘初曾涨42.24%至8.89美元。 美股散户抱团概念股（meme概念股）指数涨1.13%，暂报13.42点，此前一度涨超2.03%。",
@@ -468,7 +479,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美媒担忧：白宫想用制裁逼伊朗让步，却把人民币“送”上桌",
@@ -495,24 +506,25 @@
           "time_info": "[00时07分 ~ 04时27分]"
         },
         {
+          "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
+          "url": "https://www.zhihu.com/question/2053109056487822677",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 14时39分]"
+        },
+        {
           "title": "布伦特原油抹去伊朗战争期间的涨幅，霍尔木兹海峡开放使得供应增加。",
           "url": "https://wallstreetcn.com/livenews/3124365",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
-          "url": "https://www.zhihu.com/question/2053109056487822677",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -526,6 +538,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "美总统称或无法查明谁袭击了伊朗小学",
+          "url": "https://www.toutiao.com/trending/7655095667781877786/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "伊朗指责美官员涉谅解备忘录声明“相互矛盾”",
@@ -600,7 +623,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         }
@@ -608,8 +631,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "金价4000美元关口告破，这是空头陷阱还是下跌加速？",
+          "url": "https://flash.jin10.com/detail/20260625142341125800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
         {
           "title": "现货黄金价格跌破4000美元大关",
           "url": "https://www.douyin.com/hot/2546511",
@@ -631,19 +665,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 10时29分]"
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 14时39分]"
         },
         {
           "title": "现货黄金价格跌破4000美元大关",
           "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 14时39分]"
         },
         {
           "title": "金价回落刺激刚需消费回暖",
@@ -652,7 +687,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         }
@@ -660,7 +695,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "报道：谷歌另外两名主要的AI员工恐将跳槽至Anthropic",
@@ -672,6 +707,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "谷歌前CEO批中国AI开源",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E5%89%8DCEO%E6%89%B9%E4%B8%AD%E5%9B%BDAI%E5%BC%80%E6%BA%90&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "STT与塔塔通信德里数据中心起火：客户担忧数十年数据丢失，谷歌云受波及",

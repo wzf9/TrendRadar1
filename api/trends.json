@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T11:28:39.333870+08:00",
-  "total_titles_processed": 791,
+  "generated_at": "2026-06-29T16:48:51.459393+08:00",
+  "total_titles_processed": 1006,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "伊朗锡里克地区传出爆炸声 美军称再对伊实施打击",
@@ -73,11 +73,12 @@
             13,
             14,
             15,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 11时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 16时48分]"
         },
         {
           "title": "伊朗队队长怒斥：这届世界杯是场灾难",
@@ -129,6 +130,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时57分 ~ 05时53分]"
+        },
+        {
+          "title": "伊朗总统：60亿美元伊朗资产将获解冻",
+          "url": "https://wallstreetcn.com/livenews/3125993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         },
         {
           "title": "伊朗将从下周一恢复迪拜航班。（伊朗媒体IRNA）",
@@ -342,9 +354,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
+        },
+        {
+          "title": "伊朗公布向美军发射导弹视频",
+          "url": "https://news.ifeng.com/c/8uLjWOc0XmD",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         },
         {
           "title": "美国官员表示，与伊朗的技术谈判预计将在谅解备忘录的各个领域继续进行，双方目前将暂时保持克制，船只可以自由通行。",
@@ -547,11 +570,12 @@
           "url": "https://www.cls.cn/detail/2411269",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 16时48分]"
         },
         {
           "title": "美国众议院议长约翰逊：将于周一把住房法案提交给美国总统特朗普。",
@@ -568,7 +592,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
@@ -579,8 +603,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 11时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 16时48分]"
+        },
+        {
+          "title": "美股三大股指期货持续上涨，道琼斯指数期货涨0.41%，标普500指数期货涨0.71%，纳斯达克100指数期货涨1.08%。",
+          "url": "https://wallstreetcn.com/livenews/3125981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
+          "title": "美股盘前，存储芯片股反弹，美光科技涨超2%，科技股多数走高，英伟达涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3125978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         },
         {
           "title": "美股三大股指期货盘初小幅拉升，纳指期货现涨0.4%。",
@@ -603,12 +649,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
+        },
+        {
+          "title": "高盛：美股或再迎强劲财报季 经济增长和AI热潮料推动每股收益增长",
+          "url": "https://wallstreetcn.com/livenews/3125965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
@@ -635,6 +692,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 01时59分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 提出的 DSpark 推理加速方案？",
+          "url": "https://www.zhihu.com/question/2054243716655854373",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         }
       ]
     },

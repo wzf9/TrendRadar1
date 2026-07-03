@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T04:09:24.464403+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-07-04T05:55:56.705303+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 05时55分]"
         },
         {
           "title": "伊朗议长会见中方代表，称已解决中国船只通过海峡问题",
@@ -101,6 +101,42 @@
           "time_info": "[00时25分 ~ 02时07分]"
         },
         {
+          "title": "伊朗议会议长卡利巴夫：美国必须“接受贸易领域的既定现实”。",
+          "url": "https://flash.jin10.com/detail/20260704030253296800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 05时55分]"
+        },
+        {
+          "title": "伊朗总统与俄罗斯就扩大合作进行了会谈",
+          "url": "https://wallstreetcn.com/livenews/3128816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 05时55分]"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
+          "url": "https://flash.jin10.com/detail/20260704021129048800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 05时55分]"
+        },
+        {
           "title": "以总理办公室否认计划暗杀伊朗谈判代表",
           "url": "https://flash.jin10.com/detail/20260703234542336800",
           "source": "金十数据",
@@ -110,28 +146,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：美国必须“接受贸易领域的既定现实”。",
-          "url": "https://flash.jin10.com/detail/20260704030253296800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "伊朗总统与俄罗斯就扩大合作进行了会谈",
-          "url": "https://wallstreetcn.com/livenews/3128816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗国防部副部长表示，伊朗和巴基斯坦可以成为该地区新安全安排的基石。",
@@ -165,17 +179,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时07分"
-        },
-        {
-          "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
-          "url": "https://flash.jin10.com/detail/20260704021129048800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
         }
       ]
     },
@@ -184,17 +187,6 @@
       "match_count": 12,
       "titles": [
         {
-          "title": "特朗普前AI顾问：美国不会设立类FDA的AI监管机构",
-          "url": "https://wallstreetcn.com/livenews/3128826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
           "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
           "url": "https://news.ifeng.com/c/8uSuVg66mIs",
           "source": "凤凰网",
@@ -202,8 +194,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 05时55分]"
+        },
+        {
+          "title": "特朗普前AI顾问：美国不会设立类FDA的AI监管机构",
+          "url": "https://wallstreetcn.com/livenews/3128826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 05时55分]"
         },
         {
           "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
@@ -213,19 +217,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 05时55分]"
         },
         {
           "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
           "url": "https://wallstreetcn.com/articles/3776099",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 05时55分]"
+        },
+        {
+          "title": "美国总统特朗普：赦免6名因“修车被起诉”人士。",
+          "url": "https://flash.jin10.com/detail/20260704032701636800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时25分 ~ 04时09分]"
+          "time_info": "[04时09分 ~ 05时55分]"
         },
         {
           "title": "美国总统特朗普周五与内塔尼亚胡通电话。（Axios）",
@@ -238,17 +255,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时07分 ~ 04时09分]"
-        },
-        {
-          "title": "美国总统特朗普：赦免6名因“修车被起诉”人士。",
-          "url": "https://flash.jin10.com/detail/20260704032701636800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
         },
         {
           "title": "哥伦比亚总统佩特罗：特朗普此前并不知道我被列入美国财政部海外资产控制办公室（OFAC）制裁名单，特朗普表示将对此采取行动。",
@@ -350,11 +356,12 @@
           "url": "https://wallstreetcn.com/livenews/3128818",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 05时55分]"
         }
       ]
     },
@@ -371,8 +378,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 05时55分]"
         },
         {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",

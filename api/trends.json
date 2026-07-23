@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T20:20:38.176617+08:00",
-  "total_titles_processed": 1513,
+  "generated_at": "2026-07-23T23:02:09.768794+08:00",
+  "total_titles_processed": 1702,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 53,
+      "match_count": 58,
       "titles": [
         {
           "title": "伊朗袭击亚马逊公司设施",
@@ -43,6 +43,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "美众议院再次通过决议要求停止对伊朗军事行动",
+          "url": "https://wallstreetcn.com/livenews/3138952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "美媒：以色列摩萨德新局长访美协调伊朗核谈判",
@@ -207,6 +218,17 @@
           "time_info": "13时14分"
         },
         {
+          "title": "据悉伊朗向也门胡塞武装空运革命卫队指挥官及导弹设备",
+          "url": "https://flash.jin10.com/detail/20260723223835511800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "以媒：美国拟动用重型轰炸机打击伊朗",
           "url": "https://flash.jin10.com/detail/20260723013624498800",
           "source": "金十数据",
@@ -216,6 +238,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "据Punchbowl：美国参议院多数党领袖图恩表示，伊朗制裁已被纳入俄罗斯法案中。",
+          "url": "https://flash.jin10.com/detail/20260723223751877800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "据AXIOS：知情消息人士称，以色列新摩萨德局长两周前在华盛顿与中央情报局局长就伊朗问题进行了会晤。",
@@ -405,6 +438,17 @@
           "time_info": "03时23分"
         },
         {
+          "title": "市场消息：美国众议院通过伊朗《战争权力法》决议。",
+          "url": "https://flash.jin10.com/detail/20260723222639132800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "伊朗议会议长：如果伊朗不能卖石油，其他国家也别想卖",
           "url": "https://wallstreetcn.com/livenews/3138348",
           "source": "华尔街见闻-快讯",
@@ -488,7 +532,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -559,6 +603,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "伊朗革命卫队称打击驻科威特美军电子战部队",
+          "url": "https://wallstreetcn.com/livenews/3138925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "报道：英国政府正在撤回驻伊朗外交人员",
           "url": "https://wallstreetcn.com/livenews/3138374",
           "source": "华尔街见闻-快讯",
@@ -606,8 +661,20 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777718",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时31分 ~ 23时02分]"
+        },
         {
           "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
           "url": "https://wallstreetcn.com/articles/3777680",
@@ -622,18 +689,6 @@
           "time_info": "[00时13分 ~ 16时09分]"
         },
         {
-          "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777718",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 20时20分]"
-        },
-        {
           "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
           "url": "https://wallstreetcn.com/articles/3777723",
           "source": "华尔街见闻",
@@ -643,8 +698,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 20时20分]"
+          "appearance_count": 7,
+          "time_info": "[09时31分 ~ 23时02分]"
         },
         {
           "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
@@ -693,13 +748,24 @@
           "time_info": "04时54分"
         },
         {
+          "title": "谷歌未来支出承诺飙升至8110亿美元",
+          "url": "https://wallstreetcn.com/livenews/3138950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "谷歌披露持有SpaceX股份940亿美元",
           "url": "https://flash.jin10.com/detail/20260723195331103800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -727,6 +793,17 @@
           "time_info": "[05时56分 ~ 06时53分]"
         },
         {
+          "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
+          "url": "https://www.zhihu.com/question/2063569251428819442",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
+        },
+        {
           "title": "Reddit股价大跌，媒体报道称其可能限制谷歌访问权限",
           "url": "https://wallstreetcn.com/livenews/3138315",
           "source": "华尔街见闻-快讯",
@@ -737,6 +814,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时13分 ~ 02时02分]"
+        },
+        {
+          "title": "AI每赚1块钱，谷歌花出去2块",
+          "url": "https://wallstreetcn.com/articles/3777748",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
         },
         {
           "title": "谷歌财报",
@@ -866,7 +954,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -880,6 +968,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
+        },
+        {
+          "title": "2050亿美元支出引发担忧，谷歌跌超7%",
+          "url": "https://flash.jin10.com/detail/20260723222423325800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "谷歌自由现金流数十年来首次转负",
@@ -910,7 +1009,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -940,8 +1039,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[06时52分 ~ 23时02分]"
+        },
         {
           "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
           "url": "https://wallstreetcn.com/articles/3777518",
@@ -964,18 +1075,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时13分 ~ 07时54分]"
-        },
-        {
-          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时52分 ~ 20时20分]"
         },
         {
           "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
@@ -1117,6 +1216,17 @@
           "time_info": "04时54分"
         },
         {
+          "title": "尚未被定价的隐形风险：日本万亿级资金回流将成美股的“抽水机”",
+          "url": "https://flash.jin10.com/detail/20260723222612176800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "周三（7月22日）美股尾盘，美股降息赢家指数大致持平，报95.17点，早盘冲高回落、随后出现一波V形反转行情。 “特朗普关税输家”指数跌0.13%，“特朗普金融指数”跌0.17%。",
           "url": "https://wallstreetcn.com/livenews/3138380",
           "source": "华尔街见闻-快讯",
@@ -1156,7 +1266,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -1222,7 +1332,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -1233,7 +1343,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         }
@@ -1241,7 +1351,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
@@ -1253,6 +1363,18 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时13分 ~ 07时54分]"
+        },
+        {
+          "title": "特朗普：我们与伊朗只是小规模冲突",
+          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时14分 ~ 23时02分]"
         },
         {
           "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
@@ -1267,18 +1389,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[04时54分 ~ 13时14分]"
-        },
-        {
-          "title": "特朗普：我们与伊朗只是小规模冲突",
-          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 20时20分]"
         },
         {
           "title": "新闻蒸馏器｜特朗普关税或将“换壳”：覆盖60国，税率10%至12.5%",
@@ -1318,6 +1428,19 @@
           "time_info": "[09时31分 ~ 16时09分]"
         },
         {
+          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
+          "url": "https://wallstreetcn.com/articles/3777708",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时14分 ~ 23时02分]"
+        },
+        {
           "title": "美国总统特朗普：9月份将面临政府停摆。",
           "url": "https://flash.jin10.com/detail/20260723044952204800",
           "source": "金十数据",
@@ -1335,9 +1458,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
+        },
+        {
+          "title": "美众院再次通过决议 要求特朗普结束对伊朗战事",
+          "url": "https://flash.jin10.com/detail/20260723224553646800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
@@ -1357,7 +1491,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -1371,19 +1505,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时13分 ~ 03时23分]"
-        },
-        {
-          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
-          "url": "https://wallstreetcn.com/articles/3777708",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 20时20分]"
         },
         {
           "title": "特朗普宣布两年后对仿制药征收 100% 关税，该举措出于什么目的？会对相关产业带来哪些影响？",
@@ -1424,13 +1545,24 @@
           "time_info": "[06时53分 ~ 07时54分]"
         },
         {
+          "title": "美国众议院再次通过伊朗战争权力决议，对特朗普表达谴责",
+          "url": "https://wallstreetcn.com/livenews/3138941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "特朗普：美沙协议以沙特加入《亚伯拉罕协议》为条件。 美国与沙特的协议不包含材料浓缩。",
           "url": "https://wallstreetcn.com/livenews/3138861",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -1482,7 +1614,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
@@ -1627,6 +1759,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "美国 白宫官员：美国总统特朗普的技术顾问克拉齐奥斯已获悉OpenAI智能体失控一事，正在监测事态发展。",
+          "url": "https://flash.jin10.com/detail/20260723222357929800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         }
       ]
     },
@@ -1701,7 +1844,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -1745,7 +1888,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         }
@@ -1753,8 +1896,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "金价四连涨深圳水贝又挤爆了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9B%E8%BF%9E%E6%B6%A8%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E5%8F%88%E6%8C%A4%E7%88%86%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
+        },
         {
           "title": "金十图示：2026年07月23日（周四）上海金午盘价为896.63元/克，较国际金价(891.25元/克)，高5.38元/克",
           "url": "https://flash.jin10.com/detail/20260723154915285800",
@@ -1792,7 +1946,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "贝莱德称高企的美债收益率为投资者提供稳健的抗跌保护",
@@ -1801,7 +1955,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -1815,6 +1969,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "美债收益率升创年内高点 油价飙升推高美联储加息押注",
+          "url": "https://wallstreetcn.com/livenews/3138919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         }
       ]
     },

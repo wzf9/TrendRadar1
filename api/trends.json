@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T09:45:37.138870+08:00",
-  "total_titles_processed": 733,
+  "generated_at": "2026-08-01T13:16:50.071917+08:00",
+  "total_titles_processed": 913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
@@ -49,11 +49,12 @@
           "ranks": [
             11,
             13,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时17分 ~ 09时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时17分 ~ 13时16分]"
         },
         {
           "title": "五角大楼发言人：美国国防部随时准备执行特朗普总统的指示。",
@@ -128,6 +129,18 @@
           "time_info": "01时17分"
         },
         {
+          "title": "多国应对西班牙飞地移民危机，特朗普：这是入侵",
+          "url": "https://news.ifeng.com/c/8vEF0vvkrzw",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 13时16分]"
+        },
+        {
           "title": "特朗普否认允许乌生产爱国者拦截弹",
           "url": "https://wallstreetcn.com/livenews/3143400",
           "source": "华尔街见闻-快讯",
@@ -176,17 +189,6 @@
           "time_info": "[05时56分 ~ 06时49分]"
         },
         {
-          "title": "多国应对西班牙飞地移民危机，特朗普：这是入侵",
-          "url": "https://news.ifeng.com/c/8vEF0vvkrzw",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
           "title": "美国总统特朗普政府在委内瑞拉事务上的非正式顾问毛里西奥·克拉弗-卡罗内辞去了职务。",
           "url": "https://flash.jin10.com/detail/20260801003644824800",
           "source": "金十数据",
@@ -209,6 +211,17 @@
           "time_info": "01时17分"
         },
         {
+          "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
+          "url": "https://wallstreetcn.com/articles/3778460",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
           "title": "特朗普对伊朗失去信心，称对方撒谎",
           "url": "https://wallstreetcn.com/livenews/3143394",
           "source": "华尔街见闻-快讯",
@@ -218,6 +231,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
+          "url": "https://www.cls.cn/detail/2443172",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "特朗普：与伊朗可以达成协议 但对他们越来越不信任",
@@ -341,6 +365,17 @@
           "time_info": "01时17分"
         },
         {
+          "title": "你和特朗普谁是老大？内塔尼亚胡：他是大股东，但我也有底线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33690982",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
           "title": "美国总统特朗普：（关于伊朗）可以达成协议。",
           "url": "https://flash.jin10.com/detail/20260801002327661800",
           "source": "金十数据",
@@ -454,7 +489,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行",
@@ -480,26 +515,18 @@
           "time_info": "[01时17分 ~ 03时05分]"
         },
         {
-          "title": "美以计划对伊朗能源设施发动迄今最猛烈轰炸",
-          "url": "https://news.ifeng.com/c/8vE4QnKuvOF",
-          "source": "凤凰网",
+          "title": "伊朗打击美军空中任务后勤保障枢纽",
+          "url": "https://www.douyin.com/hot/2591858",
+          "source": "抖音",
           "ranks": [
-            1
+            17,
+            18,
+            15,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "伊朗警告打击美以能源基础设施",
-          "url": "https://news.ifeng.com/c/8vE5HdfLPru",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时45分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时55分 ~ 13时16分]"
         },
         {
           "title": "据塔斯尼姆通讯社：一位伊朗高级安全官员表示，伊朗认为美国和以色列可能袭击伊朗基础设施的计划是一种鲁莽行为。伊朗已制定一项全面的计划，包括打击以色列关键基础设施，以及该地区美国能源基础设施。",
@@ -532,7 +559,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
@@ -550,19 +577,6 @@
           "time_info": "[01时17分 ~ 05时56分]"
         },
         {
-          "title": "伊朗打击美军空中任务后勤保障枢纽",
-          "url": "https://www.douyin.com/hot/2591858",
-          "source": "抖音",
-          "ranks": [
-            17,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时55分 ~ 09时45分]"
-        },
-        {
           "title": "伊朗宣布霍尔木兹海峡暂停通行",
           "url": "https://www.toutiao.com/trending/7668680642107805238/",
           "source": "今日头条",
@@ -574,6 +588,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时17分 ~ 05时56分]"
+        },
+        {
+          "title": "美以计划对伊朗能源设施发动迄今最猛烈轰炸",
+          "url": "https://news.ifeng.com/c/8vE4QnKuvOF",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 13时16分]"
+        },
+        {
+          "title": "伊朗警告打击美以能源基础设施",
+          "url": "https://news.ifeng.com/c/8vE5HdfLPru",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 13时16分]"
         },
         {
           "title": "【伊朗警告打击美以能源基础设施】8月1日获悉，针对美国方面有关美国和以色列可能对伊朗基础设施发动袭击的消息，一名伊朗高级安全官员称，类似消息属“无稽之谈”。该安全官员表示，伊朗已制定一项全面计划，包括打击以色列关键基础设施及地区内美国能源基础设施等，伊方已做好充分准备。（央视）",
@@ -600,6 +638,18 @@
           "time_info": "[05时56分 ~ 07时52分]"
         },
         {
+          "title": "伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行",
+          "url": "https://wallstreetcn.com/articles/3778449",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 13时16分]"
+        },
+        {
           "title": "伊朗最高国家安全委员会秘书：全球经济、能源市场和美国选民将为持续的海上封锁和美国的局势升级付出代价。",
           "url": "https://wallstreetcn.com/livenews/3143491",
           "source": "华尔街见闻-快讯",
@@ -612,17 +662,6 @@
           "time_info": "[06时49分 ~ 07时52分]"
         },
         {
-          "title": "伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行",
-          "url": "https://wallstreetcn.com/articles/3778449",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
           "title": "伊朗警告打击美以能源基础设施",
           "url": "https://wallstreetcn.com/livenews/3143506",
           "source": "华尔街见闻-快讯",
@@ -632,6 +671,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "伊朗：已制定计划应对潜在美以袭击",
+          "url": "https://www.toutiao.com/trending/7668829809023402026/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "伊朗称已关闭霍尔木兹海峡，美中央司令部否认",
@@ -715,8 +765,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时17分 ~ 09时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时17分 ~ 13时16分]"
         },
         {
           "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
@@ -752,8 +802,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 09时45分]"
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 13时16分]"
         },
         {
           "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
@@ -824,7 +874,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
@@ -885,7 +935,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
@@ -972,11 +1022,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 09时45分]"
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 13时16分]"
         },
         {
           "title": "OpenAI可能会将其首次公开募股 (IPO) 推迟到明年。（华尔街日报）",
@@ -985,7 +1036,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
@@ -1004,7 +1055,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "DeepSeek V4 Flash正式版强在哪",
@@ -1036,6 +1087,17 @@
           "time_info": "[01时17分 ~ 06时49分]"
         },
         {
+          "title": "DeepSeek（官方 API 接入 Agent）居然会对用户说「我去吃饭了」、「我去睡了」，为啥会这样？",
+          "url": "https://www.zhihu.com/question/2066223484309434997",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
           "title": "如何评价 Deepseek-V4-Flash 正式版？",
           "url": "https://www.zhihu.com/question/2066525148576998707",
           "source": "知乎",
@@ -1045,6 +1107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时49分"
+        },
+        {
+          "title": "DeepSeek V4 flash 上线，相较 Kimi K3 各有哪些优劣？现版本大模型中你的选择是啥？",
+          "url": "https://www.zhihu.com/question/2066599476764964006",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "DeepSeek拟在内蒙古建超算中心",
@@ -1070,6 +1143,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 03时05分]"
+        },
+        {
+          "title": "实测DeepSeek V4 Flash",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeek%20V4%20Flash",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "DeepSeek-V4-Flash 正式版API上线",
@@ -1219,8 +1303,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时49分 ~ 09时45分]"
+          "appearance_count": 4,
+          "time_info": "[06时49分 ~ 13时16分]"
         },
         {
           "title": "美国圣路易斯联储主席穆萨勒姆（Musalem）针对美债抛售事件表示：美债抛售对美联储的信誉发出了警告。 我本人倾向于（支持）加息。（英国金融时报）",
@@ -1229,7 +1313,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         }

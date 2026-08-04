@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T13:15:50.048553+08:00",
-  "total_titles_processed": 957,
+  "generated_at": "2026-08-04T16:16:12.303216+08:00",
+  "total_titles_processed": 1125,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 56,
       "titles": [
         {
           "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时40分 ~ 13时15分]"
+          "appearance_count": 14,
+          "time_info": "[01时40分 ~ 16时16分]"
         },
         {
           "title": "特朗普威胁对伊朗采取斩首行动",
@@ -29,19 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 13时15分]"
-        },
-        {
-          "title": "美25州联手，特朗普关税再遭阻击",
-          "url": "https://news.ifeng.com/c/8vIzMGikgqm",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 13时15分]"
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 16时16分]"
         },
         {
           "title": "霍尔木兹马上开放？特朗普多次遭伊朗“打脸”，仍坚称美伊正谈判！",
@@ -52,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 13时15分]"
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 16时16分]"
         },
         {
           "title": "“控制”格陵兰岛，特朗普罕见列出时间表",
@@ -61,7 +50,19 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 16时16分]"
+        },
+        {
+          "title": "美25州联手，特朗普关税再遭阻击",
+          "url": "https://news.ifeng.com/c/8vIzMGikgqm",
+          "source": "凤凰网",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -118,7 +119,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -147,6 +148,18 @@
           "time_info": "[01时41分 ~ 03时17分]"
         },
         {
+          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时15分 ~ 16时16分]"
+        },
+        {
           "title": "特朗普抨击大型石油公司“赚得太多” 国际油价大幅回落 | 环球市场",
           "url": "https://www.cls.cn/detail/2444679",
           "source": "财联社热门",
@@ -157,6 +170,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时01分 ~ 13时15分]"
+        },
+        {
+          "title": "美媒：因凡蒂诺向特朗普求助",
+          "url": "https://www.douyin.com/hot/2596620",
+          "source": "抖音",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时15分 ~ 16时16分]"
+        },
+        {
+          "title": "美石油巨头大发“战争财” 特朗普炮轰：赚得太多了，我不喜欢！",
+          "url": "https://www.cls.cn/detail/2444718",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时15分 ~ 16时16分]"
         },
         {
           "title": "美国参议院投票，有望围绕临时性融资草案通过程序性投票，该权宜性融资方案将帮助特朗普的联邦政府有资金持续运作至12月11日。",
@@ -171,6 +208,28 @@
           "time_info": "[06时55分 ~ 07时59分]"
         },
         {
+          "title": "特朗普威胁对伊朗采取“斩首”行动",
+          "url": "https://www.douyin.com/hot/2596526",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 16时16分]"
+        },
+        {
+          "title": "美议员痛批特朗普行事反复无常",
+          "url": "https://www.toutiao.com/trending/7669578491814576137/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 16时16分]"
+        },
+        {
           "title": "伊朗认为特朗普倾向谈判而非局势升级",
           "url": "https://wallstreetcn.com/livenews/3144290",
           "source": "华尔街见闻-快讯",
@@ -182,17 +241,6 @@
           "time_info": "01时41分"
         },
         {
-          "title": "美媒：因凡蒂诺向特朗普求助",
-          "url": "https://www.douyin.com/hot/2596620",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时15分"
-        },
-        {
           "title": "美国总统特朗普：（关于伊朗）我没有时间限制。",
           "url": "https://flash.jin10.com/detail/20260804022501106800",
           "source": "金十数据",
@@ -202,17 +250,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
-        },
-        {
-          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时15分"
         },
         {
           "title": "特朗普：不会允许伊朗征收霍尔木兹海峡通行费",
@@ -290,17 +327,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
-        },
-        {
-          "title": "美石油巨头大发“战争财” 特朗普炮轰：赚得太多了，我不喜欢！",
-          "url": "https://www.cls.cn/detail/2444718",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时15分"
         },
         {
           "title": "美国总统特朗普重申石油公司应更好地降低零售价格。",
@@ -614,7 +640,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "没招了？美媒爆料：美军群发邮件征集对伊朗施压想法",
@@ -632,11 +658,12 @@
           "url": "https://www.toutiao.com/trending/7668954284482134058/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时15分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时15分 ~ 16时16分]"
         },
         {
           "title": "乌袭击伊朗船只 战争扩大化风险增加",
@@ -827,6 +854,17 @@
           "time_info": "10时02分"
         },
         {
+          "title": "黎巴嫩真主党领导人纳伊姆·卡西姆：伊朗已从与美国和以色列的对抗中取得胜利。",
+          "url": "https://flash.jin10.com/detail/20260804155925131800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
           "title": "伊朗最高领袖穆杰塔巴计划任命其首席军事助手穆赫辛·雷扎伊，替换国家最高安全委员会主席穆罕默德-巴盖尔·佐勒格达尔。",
           "url": "https://wallstreetcn.com/livenews/3144281",
           "source": "华尔街见闻-快讯",
@@ -918,8 +956,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3778526",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时58分 ~ 16时16分]"
+        },
         {
           "title": "美股收盘：三大指数全线走高纳指涨逾2% 美伊局势缓和提振风险偏好",
           "url": "https://www.cls.cn/detail/2444660",
@@ -960,18 +1010,6 @@
           "time_info": "[07时58分 ~ 13时15分]"
         },
         {
-          "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3778526",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时58分 ~ 13时15分]"
-        },
-        {
           "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
           "url": "https://wallstreetcn.com/articles/3778526",
           "source": "华尔街见闻",
@@ -992,6 +1030,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时58分 ~ 07时59分]"
+        },
+        {
+          "title": "美股盘前，存储芯片概念股走高，SK海力士、美光科技均涨超2%。Palantir延续此前涨势，现涨超15%，公司Q2盈利碾压预期，上调全年营收指引。",
+          "url": "https://wallstreetcn.com/livenews/3144608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "城堡证券：美股牛市驱动因素依然稳固，散户杠杆押注降温",
@@ -1156,6 +1205,17 @@
           "time_info": "[04时53分 ~ 05时57分]"
         },
         {
+          "title": "美股芯片股盘前走高，美光科技(MU.O)、闪迪(SNDK.O)、英特尔(INTC.O)均涨超3%，SK海力士(SKHY.O)、西部数据(WDC.O)涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260804160334928800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
           "title": "金十图示：2026年08月03日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260804003126944800",
           "source": "金十数据",
@@ -1195,21 +1255,6 @@
       "match_count": 12,
       "titles": [
         {
-          "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
-          "url": "https://www.zhihu.com/question/2067545767003120313",
-          "source": "知乎",
-          "ranks": [
-            12,
-            7,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时40分 ~ 13时15分]"
-        },
-        {
           "title": "DeepSeek一天消耗了8万亿",
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%B8%80%E5%A4%A9%E6%B6%88%E8%80%97%E4%BA%868%E4%B8%87%E4%BA%BF&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -1220,6 +1265,22 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时40分 ~ 10时02分]"
+        },
+        {
+          "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
+          "url": "https://www.zhihu.com/question/2067545767003120313",
+          "source": "知乎",
+          "ranks": [
+            12,
+            7,
+            4,
+            3,
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时40分 ~ 16时16分]"
         },
         {
           "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
@@ -1293,6 +1354,18 @@
           "time_info": "[01时40分 ~ 06时55分]"
         },
         {
+          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
+          "url": "https://www.zhihu.com/question/2067873642554156045",
+          "source": "知乎",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时15分 ~ 16时16分]"
+        },
+        {
           "title": "DeepSeek V4 Flash后训练揭秘",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Flash%E5%90%8E%E8%AE%AD%E7%BB%83",
           "source": "bilibili 热搜",
@@ -1332,18 +1405,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时15分"
-        },
-        {
-          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
-          "url": "https://www.zhihu.com/question/2067873642554156045",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         }
@@ -1351,7 +1413,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI降价,老日高喊中国万岁",
@@ -1360,11 +1422,12 @@
           "ranks": [
             9,
             11,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时40分 ~ 13时15分]"
+          "appearance_count": 14,
+          "time_info": "[01时40分 ~ 16时16分]"
         },
         {
           "title": "OpenAI：我们下一代主要模型的一个内部版本，在数学和理论计算机科学领域长期未解决的开放问题上取得了10项新成果，所使用的计算成本约为按照GPT-5.6 Sol API费率计算的2000美元token费用。 我们将发布这些手稿、正式的Lean证明证书以及推理过程说明，供数学家们审查这些结果，并在相关研究思路基础上进一步发展。 这些成果涵盖球体堆积、编码理论、群论、量子复杂性、格密码学、极值组合学等领域。其中包括：证明非sofic群的存在性，以及对高维球体堆积界限取得指数级改进。",
@@ -1401,6 +1464,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时57分 ~ 06时55分]"
+        },
+        {
+          "title": "OpenAI回应商业纠纷案：苹果对此案处理有误",
+          "url": "https://wallstreetcn.com/livenews/3144598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "英国数据监管机构ICO：（就OpenAI和Anthropic）我们已注意到近期影响该行业的黑客事件，并正在密切监控事态发展。",
@@ -1520,7 +1594,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         }
@@ -1535,11 +1609,12 @@
           "url": "https://wallstreetcn.com/articles/3778620",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时15分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时15分 ~ 16时16分]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T07:47:14.562561+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-08-06T09:21:59.158499+08:00",
+  "total_titles_processed": 734,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "伊朗的最后一张牌",
@@ -47,7 +47,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -110,6 +110,18 @@
           "time_info": "[01时58分 ~ 03时12分]"
         },
         {
+          "title": "伊朗与阿曼会谈最新细节曝光",
+          "url": "https://news.ifeng.com/c/8vM5VvMgc8P",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时46分 ~ 09时21分]"
+        },
+        {
           "title": "伊朗：将在未来2-4个月内激活新版霍尔木兹海峡航线。（IRNA）",
           "url": "https://wallstreetcn.com/livenews/3145528",
           "source": "华尔街见闻-快讯",
@@ -120,17 +132,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时58分 ~ 03时12分]"
-        },
-        {
-          "title": "伊朗与阿曼会谈最新细节曝光",
-          "url": "https://news.ifeng.com/c/8vM5VvMgc8P",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时46分 ~ 07时47分]"
         },
         {
           "title": "也门正在为与沙特展开全面对抗做准备。 袭击沙特船只巩固了“封锁换封锁”的局面。 根据也门武装部队在地面局势发展方面的情况，过去被认为安全的航线已不再安全。（伊朗塔斯尼姆通讯社）",
@@ -188,6 +189,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
+          "url": "https://wallstreetcn.com/articles/3778783",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "伊朗副外长：近期未与美国进行谈判。",
@@ -446,7 +458,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普污蔑：中国背后捣鬼",
@@ -456,8 +468,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时46分 ~ 07时47分]"
+          "appearance_count": 3,
+          "time_info": "[07时46分 ~ 09时21分]"
+        },
+        {
+          "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
+          "url": "https://news.ifeng.com/c/8vLgY5mFkV5",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时46分 ~ 09时21分]"
+        },
+        {
+          "title": "特朗普称即将达成霍尔木兹海峡协议，伊朗获更大控制权？",
+          "url": "https://news.ifeng.com/c/8vLi13wh4eq",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时46分 ~ 09时21分]"
         },
         {
           "title": "最快今日宣布！霍尔木兹开放协议据悉接近达成 特朗普发声助阵",
@@ -472,28 +506,6 @@
           "time_info": "[01时58分 ~ 07时47分]"
         },
         {
-          "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
-          "url": "https://news.ifeng.com/c/8vLgY5mFkV5",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时46分 ~ 07时47分]"
-        },
-        {
-          "title": "特朗普称即将达成霍尔木兹海峡协议，伊朗获更大控制权？",
-          "url": "https://news.ifeng.com/c/8vLi13wh4eq",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时46分 ~ 07时47分]"
-        },
-        {
           "title": "美国民主党参议员Mark Warner：如果特朗普和万斯想打击欺诈行为，他们可以从特朗普在担任总统第一年中中饱私囊的22亿美元开始。",
           "url": "https://flash.jin10.com/detail/20260806012850217800",
           "source": "金十数据",
@@ -503,6 +515,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "自沃什就任美联储主席以来，特朗普多次与其通话。 特朗普就伊朗问题以及人工智能对经济的影响向沃什寻求建议。 沃什在与特朗普的通话中对经济表达了积极看法。 尚不清楚特朗普与沃什是否讨论了货币政策。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3145692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "美国总统特朗普在拉斯维加斯夸赞通胀下滑。 特朗普称赞股市上涨。",
@@ -589,6 +612,17 @@
           "time_info": "06时05分"
         },
         {
+          "title": "据华尔街日报：自沃什担任美联储主席以来，美国总统特朗普多次与其通话。",
+          "url": "https://flash.jin10.com/detail/20260806090514682800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
           "title": "特朗普直升机一度与客机距离过近",
           "url": "https://wallstreetcn.com/livenews/3145542",
           "source": "华尔街见闻-快讯",
@@ -617,7 +651,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -628,7 +662,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -639,7 +673,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -650,7 +684,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -661,7 +695,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         }
@@ -669,7 +703,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
@@ -693,8 +727,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时58分 ~ 07时47分]"
+          "appearance_count": 8,
+          "time_info": "[01时58分 ~ 09时21分]"
+        },
+        {
+          "title": "美股收盘：道指再创历史新高 SpaceX与AMD拖累纳指走低",
+          "url": "https://www.cls.cn/detail/2446816",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时05分 ~ 09时21分]"
         },
         {
           "title": "美股大类资产类ETF多数下跌，纳指100 ETF跌0.9%，黄金ETF涨超4.1%",
@@ -743,18 +790,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时56分 ~ 06时05分]"
-        },
-        {
-          "title": "美股收盘：道指再创历史新高 SpaceX与AMD拖累纳指走低",
-          "url": "https://www.cls.cn/detail/2446816",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时05分 ~ 07时47分]"
         },
         {
           "title": "美股收盘：道指再创历史新高",
@@ -810,6 +845,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
+        },
+        {
+          "title": "美股两大巨头闪崩",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E4%B8%A4%E5%A4%A7%E5%B7%A8%E5%A4%B4%E9%97%AA%E5%B4%A9%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "金十图示：2026年08月05日（周三）热门中概股行情一览（美股收盘）",
@@ -892,7 +938,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -906,6 +952,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "谷歌将因被指滥用广告权力而在英国面临集体诉讼",
+          "url": "https://wallstreetcn.com/livenews/3145526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时12分]"
+        },
+        {
+          "title": "周三（8月5日），美国科技股七巨头（Magnificent 7）指数跌0.28%，报226.01点，美股早盘高开低走，北京时间21:33刷新日高至229.56点、00:12刷新日低至225.05点，之后持稳于226点附近。成分股中，谷歌A收跌4.03%——在标普500指数所有成分股里跌幅靠前，特斯拉、亚马逊、微软至多跌1.77%，Meta、苹果至多收涨0.52%，英伟达涨3.43%。 “超大”市值科技股指数跌1.19%，报444.40点。成分股中，除了前述个股之外，AMD收跌7.04%，高通跌3.16%，甲骨文跌0.93%，博通、Adobe、奈飞至多收涨0.86%，Salesforce涨1.04%。",
+          "url": "https://wallstreetcn.com/livenews/3145619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "谷歌A跌超5%，谷歌DeepMind负责人哈萨比斯转任主席，公司进行重大人事调整",
+          "url": "https://wallstreetcn.com/livenews/3145508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "谷歌首席科学家Jeff Dean离职创业",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E9%A6%96%E5%B8%AD%E7%A7%91%E5%AD%A6%E5%AE%B6Jeff+Dean%E7%A6%BB%E8%81%8C%E5%88%9B%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         }
       ]
     },
@@ -962,46 +1059,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌将因被指滥用广告权力而在英国面临集体诉讼",
-          "url": "https://wallstreetcn.com/livenews/3145526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 03时12分]"
-        },
-        {
-          "title": "周三（8月5日），美国科技股七巨头（Magnificent 7）指数跌0.28%，报226.01点，美股早盘高开低走，北京时间21:33刷新日高至229.56点、00:12刷新日低至225.05点，之后持稳于226点附近。成分股中，谷歌A收跌4.03%——在标普500指数所有成分股里跌幅靠前，特斯拉、亚马逊、微软至多跌1.77%，Meta、苹果至多收涨0.52%，英伟达涨3.43%。 “超大”市值科技股指数跌1.19%，报444.40点。成分股中，除了前述个股之外，AMD收跌7.04%，高通跌3.16%，甲骨文跌0.93%，博通、Adobe、奈飞至多收涨0.86%，Salesforce涨1.04%。",
-          "url": "https://wallstreetcn.com/livenews/3145619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "谷歌A跌超5%，谷歌DeepMind负责人哈萨比斯转任主席，公司进行重大人事调整",
-          "url": "https://wallstreetcn.com/livenews/3145508",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -1032,8 +1089,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "国际金价大幅飙升 伊朗称与阿曼接近达成协议 | 环球市场",
+          "url": "https://www.cls.cn/detail/2446838",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
         {
           "title": "国际金价涨超4%，重返4200美元上方",
           "url": "https://wallstreetcn.com/livenews/3145608",

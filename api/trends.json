@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T13:35:13.273862+08:00",
-  "total_titles_processed": 947,
+  "generated_at": "2026-08-08T14:32:14.286186+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时45分 ~ 13时35分]"
+          "appearance_count": 8,
+          "time_info": "[08时45分 ~ 14时32分]"
         },
         {
           "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
@@ -28,11 +28,12 @@
             16,
             15,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时43分 ~ 13时35分]"
+          "appearance_count": 14,
+          "time_info": "[03时43分 ~ 14时32分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -46,6 +47,18 @@
           "time_info": "[00时40分 ~ 06时25分]"
         },
         {
+          "title": "特朗普：隔着大洋呢，我们没掺和这事",
+          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时48分 ~ 14时32分]"
+        },
+        {
           "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
           "url": "https://news.ifeng.com/c/8vPP6fsrHNx",
           "source": "凤凰网",
@@ -57,16 +70,17 @@
           "time_info": "[08时45分 ~ 10时49分]"
         },
         {
-          "title": "特朗普：隔着大洋呢，我们没掺和这事",
-          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
-          "source": "凤凰网",
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
           "ranks": [
-            11,
+            12,
+            7,
             5
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时48分 ~ 13时35分]"
+          "time_info": "[12时03分 ~ 14时32分]"
         },
         {
           "title": "万斯为何能被特朗普青睐？背后有好几个大佬做靠山",
@@ -177,18 +191,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时40分 ~ 02时38分]"
-        },
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时03分 ~ 13时35分]"
         },
         {
           "title": "美国总统特朗普：到场的人太多了，不然我得在这儿待上一整天。 希望大家提问尽量简短，我不胜感激，毕竟我们还有战事要推进，明白吗？ 这就是我要提前离场的理由。",
@@ -488,8 +490,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时48分 ~ 13时35分]"
+          "appearance_count": 7,
+          "time_info": "[10时48分 ~ 14时32分]"
         },
         {
           "title": "美官员：预计伊朗与阿曼将很快就霍尔木兹海峡问题达成协议",
@@ -502,6 +504,22 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时43分 ~ 07时24分]"
+        },
+        {
+          "title": "伊朗官员称防务协议无法保障沙特安全",
+          "url": "https://wallstreetcn.com/livenews/3146940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7,
+            15,
+            21,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时24分 ~ 14时32分]"
         },
         {
           "title": "美国财政部制裁伊朗所使用的两家大型数字资产交易所。",
@@ -537,21 +555,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
-        },
-        {
-          "title": "伊朗官员称防务协议无法保障沙特安全",
-          "url": "https://wallstreetcn.com/livenews/3146940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            15,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时24分 ~ 13时35分]"
         },
         {
           "title": "伊朗总统：伊方未在涉谅解备忘录的谈判中作任何让步",
@@ -614,6 +617,18 @@
           "time_info": "[00时40分 ~ 02时38分]"
         },
         {
+          "title": "以媒称伊朗最高领袖被紧急送医",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%AA%92%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E8%A2%AB%E7%B4%A7%E6%80%A5%E9%80%81%E5%8C%BB%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时34分 ~ 14时32分]"
+        },
+        {
           "title": "伊朗副外长：波斯湾地区安全应由本地区国家共同维护",
           "url": "https://wallstreetcn.com/livenews/3146833",
           "source": "华尔街见闻-快讯",
@@ -674,17 +689,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 01时39分]"
-        },
-        {
-          "title": "以媒称伊朗最高领袖被紧急送医",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%AA%92%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E8%A2%AB%E7%B4%A7%E6%80%A5%E9%80%81%E5%8C%BB%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时34分 ~ 13时35分]"
         },
         {
           "title": "报道：伊朗与阿曼宣布达成协议后，美国将解除对伊朗的封锁",
@@ -871,19 +875,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时40分 ~ 13时35分]"
-        },
-        {
-          "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
-          "url": "https://wallstreetcn.com/articles/3778924",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 05时28分]"
+          "appearance_count": 18,
+          "time_info": "[00时40分 ~ 14时32分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -895,8 +888,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时25分 ~ 13时35分]"
+          "appearance_count": 10,
+          "time_info": "[06时25分 ~ 14时32分]"
         },
         {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
@@ -904,11 +897,23 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时45分 ~ 13时35分]"
+          "appearance_count": 8,
+          "time_info": "[08时45分 ~ 14时32分]"
+        },
+        {
+          "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
+          "url": "https://wallstreetcn.com/articles/3778924",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 05时28分]"
         },
         {
           "title": "美股存储板块集体大跌",
@@ -1043,11 +1048,12 @@
             18,
             14,
             12,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时43分 ~ 13时35分]"
+          "appearance_count": 14,
+          "time_info": "[03时43分 ~ 14时32分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -1069,8 +1075,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时48分 ~ 13时35分]"
+          "appearance_count": 7,
+          "time_info": "[10时48分 ~ 14时32分]"
         },
         {
           "title": "梁文锋为什么投王兴兴",
@@ -1080,8 +1086,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时34分 ~ 13时35分]"
+          "appearance_count": 4,
+          "time_info": "[13时34分 ~ 14时32分]"
         },
         {
           "title": "如何评价网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午？为什么会出现这样的现象？",
@@ -1132,11 +1138,12 @@
           "source": "微博",
           "ranks": [
             9,
-            29
+            29,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时03分 ~ 13时35分]"
+          "appearance_count": 5,
+          "time_info": "[12时03分 ~ 14时32分]"
         },
         {
           "title": "油价金价银价都涨了",
@@ -1176,11 +1183,12 @@
             5,
             13,
             19,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时24分 ~ 13时35分]"
+          "appearance_count": 6,
+          "time_info": "[07时24分 ~ 14时32分]"
         },
         {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
@@ -1223,8 +1231,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时40分 ~ 13时35分]"
+          "appearance_count": 18,
+          "time_info": "[00时40分 ~ 14时32分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -1236,6 +1244,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金期货价格突破4400美元关口 特朗普继续推进罢免美联储理事库克 | 环球市场",
+          "url": "https://www.cls.cn/detail/2448987",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 14时32分]"
         }
       ]
     },

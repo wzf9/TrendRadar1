@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T10:59:16.992824+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2026-08-11T12:16:46.441460+08:00",
+  "total_titles_processed": 1006,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "伊朗回应特朗普“棋局”比喻：伊朗人是“专业棋手”",
@@ -88,8 +88,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时50分 ~ 10时59分]"
+          "appearance_count": 3,
+          "time_info": "[08时50分 ~ 12时16分]"
         },
         {
           "title": "据Axios：特朗普政府正在制定一项行政命令，计划将儿童麻疹、腮腺炎和风疹联合疫苗拆分为三针，并要求在不同医疗就诊中分别接种。",
@@ -101,6 +101,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
+          "url": "https://news.ifeng.com/c/8vUFosuJumv",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时50分 ~ 12时16分]"
         },
         {
           "title": "特朗普政府撤销超17.5万份外国人签证",
@@ -161,18 +174,6 @@
           "time_info": "[01时43分 ~ 02时41分]"
         },
         {
-          "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
-          "url": "https://news.ifeng.com/c/8vUFosuJumv",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时50分 ~ 10时59分]"
-        },
-        {
           "title": "美国总统特朗普将美国琼斯法案针对货轮的豁免措施延长90天，但范围缩小。 特朗普将航运豁免范围限制在能源大宗商品和化肥领域。",
           "url": "https://wallstreetcn.com/livenews/3147630",
           "source": "华尔街见闻-快讯",
@@ -197,6 +198,18 @@
           "time_info": "[06时26分 ~ 07时25分]"
         },
         {
+          "title": "特朗普：美军已100%控制霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时50分 ~ 12时16分]"
+        },
+        {
           "title": "白宫官员：美国总统特朗普延长了《琼斯法案》的豁免，但附加了一些限制。",
           "url": "https://flash.jin10.com/detail/20260811011059897800",
           "source": "金十数据",
@@ -207,6 +220,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 02时41分]"
+        },
+        {
+          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
+          "url": "https://wallstreetcn.com/articles/3779107",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 12时16分]"
         },
         {
           "title": "特朗普称美军实际控制霍尔木兹并清除了水雷",
@@ -221,16 +245,27 @@
           "time_info": "[06时26分 ~ 07时25分]"
         },
         {
-          "title": "特朗普：美军已100%控制霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
-          "source": "凤凰网",
+          "title": "特朗普发帖称，美国最高法院大法官阿利托已宣布他将再留任一个任期。",
+          "url": "https://wallstreetcn.com/livenews/3147809",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8
+            8,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时50分 ~ 10时59分]"
+          "time_info": "[10时59分 ~ 12时16分]"
+        },
+        {
+          "title": "特朗普称美军已“100%控制”霍尔木兹海峡 | 环球市场",
+          "url": "https://www.cls.cn/detail/2450675",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时50分 ~ 12时16分]"
         },
         {
           "title": "美国总统特朗普宣布“美国疫苗推荐”。 特朗普声称：政府仅认可 11 种核心疫苗的儿童接种建议。 不再建议所有儿童接种乙肝、新冠、流感等疫苗。",
@@ -304,28 +339,6 @@
           "time_info": "01时43分"
         },
         {
-          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
-          "url": "https://wallstreetcn.com/articles/3779107",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "特朗普发帖称，美国最高法院大法官阿利托已宣布他将再留任一个任期。",
-          "url": "https://wallstreetcn.com/livenews/3147809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
           "title": "美国总统特朗普：不再建议所有儿童接种乙型肝炎、COVID-19和流感等疫苗。",
           "url": "https://flash.jin10.com/detail/20260811025855382800",
           "source": "金十数据",
@@ -370,6 +383,17 @@
           "time_info": "03时47分"
         },
         {
+          "title": "和平希望又受挫！特朗普称美军已“100%控制”霍尔木兹，并向伊朗索赔",
+          "url": "https://www.cls.cn/detail/2450709",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
           "title": "据美国哥伦比亚广播公司（CBS）：消息人士表示，美国总统特朗普计划于当地时间周一签署一项有关儿童疫苗政策的行政命令。",
           "url": "https://flash.jin10.com/detail/20260811015237329800",
           "source": "金十数据",
@@ -401,17 +425,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
-        },
-        {
-          "title": "特朗普称美军已“100%控制”霍尔木兹海峡 | 环球市场",
-          "url": "https://www.cls.cn/detail/2450675",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时50分"
         },
         {
           "title": "美国总统特朗普：签署疫苗行政命令。",
@@ -593,7 +606,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
@@ -630,24 +643,47 @@
           "time_info": "[07时24分 ~ 08时50分]"
         },
         {
-          "title": "只闻其事不见其人，伊朗最高领袖为何“隐身”？",
-          "url": "https://v.ifeng.com/c/8vU8lHyEo4N",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时50分 ~ 10时59分]"
-        },
-        {
           "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
           "url": "https://news.ifeng.com/c/8vUfY9eJoTT",
           "source": "凤凰网",
           "ranks": [
             5,
             1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时50分 ~ 12时16分]"
+        },
+        {
+          "title": "伊朗：若乌不赔偿 伊朗就自己动手了",
+          "url": "https://www.toutiao.com/trending/7671598956682723379/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 12时16分]"
+        },
+        {
+          "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
+          "url": "https://news.ifeng.com/c/8vUtL7Lqyat",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 12时16分]"
+        },
+        {
+          "title": "只闻其事不见其人，伊朗最高领袖为何“隐身”？",
+          "url": "https://v.ifeng.com/c/8vU8lHyEo4N",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -668,17 +704,6 @@
           "time_info": "[02时40分 ~ 05时31分]"
         },
         {
-          "title": "伊朗：若乌不赔偿 伊朗就自己动手了",
-          "url": "https://www.toutiao.com/trending/7671598956682723379/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
           "title": "伊朗最高领袖任命6人担任高级军官",
           "url": "https://news.ifeng.com/c/8vUC8C2pHLn",
           "source": "凤凰网",
@@ -688,17 +713,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时50分"
-        },
-        {
-          "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
-          "url": "https://news.ifeng.com/c/8vUtL7Lqyat",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
         },
         {
           "title": "伊朗外交部发言人巴加埃：不会被诸如经济制裁这些已经失效的手段所“扼杀”。",
@@ -784,6 +798,17 @@
           "time_info": "[05时31分 ~ 06时26分]"
         },
         {
+          "title": "伊朗更强硬的强硬派来了",
+          "url": "https://news.ifeng.com/c/8vUncUovk9A",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 12时16分]"
+        },
+        {
           "title": "伊朗“圣城旅”指挥官到访巴格达，同伊拉克多方会晤",
           "url": "https://wallstreetcn.com/livenews/3147698",
           "source": "华尔街见闻-快讯",
@@ -796,6 +821,29 @@
           "time_info": "[05时31分 ~ 06时26分]"
         },
         {
+          "title": "伊朗总统称与最高领袖会谈七八个小时",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E4%B8%8E%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%BC%9A%E8%B0%88%E4%B8%83%E5%85%AB%E4%B8%AA%E5%B0%8F%E6%97%B6",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 12时16分]"
+        },
+        {
+          "title": "伊朗总统称最高领袖健康状况很好",
+          "url": "https://www.toutiao.com/trending/7672040770148417546/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 12时16分]"
+        },
+        {
           "title": "伊朗革命卫队海军司令：任何外国船只经过霍尔木兹海峡，都逃不过伊朗军方的识别、追踪与监控。",
           "url": "https://wallstreetcn.com/livenews/3147616",
           "source": "华尔街见闻-快讯",
@@ -806,17 +854,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 02时41分]"
-        },
-        {
-          "title": "伊朗更强硬的强硬派来了",
-          "url": "https://news.ifeng.com/c/8vUncUovk9A",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
         },
         {
           "title": "伊朗议会副议长：美国必须接受伊朗在霍尔木兹海峡建立的安排，这些安排已经为波斯湾带来了新的政治和军事秩序。",
@@ -852,37 +889,26 @@
           "time_info": "03时47分"
         },
         {
-          "title": "伊朗总统称与最高领袖会谈七八个小时",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E4%B8%8E%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%BC%9A%E8%B0%88%E4%B8%83%E5%85%AB%E4%B8%AA%E5%B0%8F%E6%97%B6",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "伊朗总统称最高领袖健康状况很好",
-          "url": "https://www.toutiao.com/trending/7672040770148417546/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
           "title": "伊朗称美以是造成中东地区动荡根源",
           "url": "https://www.toutiao.com/trending/7671798549898657855/",
           "source": "今日头条",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
+        },
+        {
+          "title": "伊朗总统之子反思伊朗国际形象",
+          "url": "https://www.toutiao.com/trending/7671499615899877402/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         },
         {
           "title": "伊朗最高领袖公布多项任命 调整武装力量领导层",
@@ -905,6 +931,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "伊朗更强硬的强硬派来了",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9B%B4%E5%BC%BA%E7%A1%AC%E7%9A%84%E5%BC%BA%E7%A1%AC%E6%B4%BE%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         },
         {
           "title": "伊朗与巴基斯坦外长通电话，讨论霍尔木兹海峡谈判与防务协议。",
@@ -944,8 +981,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时26分 ~ 10时59分]"
+          "appearance_count": 6,
+          "time_info": "[06时26分 ~ 12时16分]"
+        },
+        {
+          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时50分 ~ 12时16分]"
         },
         {
           "title": "霍尔木兹僵局推油价大涨5%，英伟达\"循环融资\"担忧打压美股指，芯片指数跌3%，黄金续涨",
@@ -960,17 +1008,6 @@
           "time_info": "[06时26分 ~ 07时25分]"
         },
         {
-          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时50分 ~ 10时59分]"
-        },
-        {
           "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
           "url": "https://www.cls.cn/detail/2450678",
           "source": "财联社热门",
@@ -979,8 +1016,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时24分 ~ 10时59分]"
+          "appearance_count": 5,
+          "time_info": "[07时24分 ~ 12时16分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，布油基金涨约6.8%",

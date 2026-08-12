@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T16:59:51.170087+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2026-08-12T18:00:28.634648+08:00",
+  "total_titles_processed": 1400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 39,
       "titles": [
         {
           "title": "伊朗讽美：对制裁“病态依赖”，丧失了独立思考能力",
@@ -45,6 +45,18 @@
           "time_info": "[00时45分 ~ 07时30分]"
         },
         {
+          "title": "伊朗和阿曼“正式开始”向霍尔木兹海峡船舶收费了？",
+          "url": "https://news.ifeng.com/c/8vWSsJCqjj0",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时19分 ~ 18时00分]"
+        },
+        {
           "title": "美军情报评估伊朗战略重点已从核计划转向霍尔木兹海峡",
           "url": "https://flash.jin10.com/detail/20260812023416358800",
           "source": "金十数据",
@@ -56,6 +68,17 @@
           "time_info": "02时45分"
         },
         {
+          "title": "日本首相高市早苗：在霍尔木兹海峡局势进入关键阶段之际，考虑到伊朗正继续与相关国家就实现海峡开放展开沟通，日本认为，缓解当前军事紧张局势并尽快平息事态至关重要。",
+          "url": "https://flash.jin10.com/detail/20260812175424744800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时00分"
+        },
+        {
           "title": "伊朗将军纳赫迪：即使冲突持续数年，伊朗也能维持导弹和无人机的生产。伊朗将保持发射弹道导弹的能力，直至战争结束。",
           "url": "https://flash.jin10.com/detail/20260812035839670800",
           "source": "金十数据",
@@ -65,6 +88,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
+        },
+        {
+          "title": "日本首相高市早苗：鉴于当前最新的中东局势，我与伊朗总统佩泽希齐扬进行了第四次电话会谈。",
+          "url": "https://flash.jin10.com/detail/20260812175416736800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时00分"
         },
         {
           "title": "美国预计伊朗战争造成的石油供应受阻将持续到2027年底",
@@ -109,18 +143,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
-        },
-        {
-          "title": "伊朗和阿曼“正式开始”向霍尔木兹海峡船舶收费了？",
-          "url": "https://news.ifeng.com/c/8vWSsJCqjj0",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 16时59分]"
         },
         {
           "title": "伊朗官员称在伊方条件满足前霍尔木兹海峡不会开放 | 环球市场",
@@ -259,7 +281,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         },
@@ -319,6 +341,17 @@
           "time_info": "04时33分"
         },
         {
+          "title": "伊朗驻巴基斯坦大使会见巴基斯坦外长",
+          "url": "https://flash.jin10.com/detail/20260812173702411800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时00分"
+        },
+        {
           "title": "伊朗将军纳赫迪：我们所有的军事武器现在都是国产的。",
           "url": "https://flash.jin10.com/detail/20260812030920675800",
           "source": "金十数据",
@@ -339,6 +372,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
+        },
+        {
+          "title": "据伊朗学生通讯社：霍尔木兹甘省机场管理局发布通知，阿巴斯港国际机场将于8月15日恢复航班运营。",
+          "url": "https://flash.jin10.com/detail/20260812173329946800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时00分"
+        },
+        {
+          "title": "伊朗霍尔木兹甘机场管理局：阿巴斯港国际机场将于8月15日恢复航班运营。",
+          "url": "https://flash.jin10.com/detail/20260812173318272800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时00分"
         },
         {
           "title": "伊朗官员：在伊方条件满足前霍尔木兹海峡不会开放",
@@ -380,7 +435,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         },
@@ -391,7 +446,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         }
@@ -399,7 +454,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -434,8 +489,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时31分 ~ 16时59分]"
+          "appearance_count": 8,
+          "time_info": "[06时31分 ~ 18时00分]"
         },
         {
           "title": "特朗普承认：悄悄换乘飞机了",
@@ -459,6 +514,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时19分 ~ 15时05分]"
+        },
+        {
+          "title": "中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税",
+          "url": "https://www.cls.cn/detail/2452049",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时59分 ~ 18时00分]"
         },
         {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
@@ -485,6 +552,17 @@
           "time_info": "[06时31分 ~ 07时30分]"
         },
         {
+          "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33765581",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时59分 ~ 18时00分]"
+        },
+        {
           "title": "特朗普据悉考虑削减资本利得税以提振中期选举",
           "url": "https://flash.jin10.com/detail/20260812064319870800",
           "source": "金十数据",
@@ -494,17 +572,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
-        },
-        {
-          "title": "中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税",
-          "url": "https://www.cls.cn/detail/2452049",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时59分"
         },
         {
           "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
@@ -609,7 +676,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -679,6 +746,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
+        },
+        {
+          "title": "美股期指短线拉升，纳斯达克100指数期货上涨0.7%。 美国国债上涨，美国10年期国债收益率下行3个基点至4.66%。",
+          "url": "https://wallstreetcn.com/livenews/3148557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时00分"
         },
         {
           "title": "Firefly Aerospace二季度营收1.177亿美元，上年同期亏损0.155亿美元。 二季度调整后EBITDA亏损0.612亿美元，分析师预期亏损0.479亿美元。 二季度每股亏损0.57美元，上年同期亏损5.78美元。 Firefly美股盘后跌3.6%。",
@@ -757,7 +835,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         },
@@ -923,11 +1001,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时23分 ~ 16时59分]"
+          "appearance_count": 6,
+          "time_info": "[13时23分 ~ 18时00分]"
         },
         {
           "title": "DeepSeek会偷偷给人取外号",
@@ -1055,7 +1134,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.15%，暂报2044.75点。 MarketVectorTM数字资产100中盘指数跌1.71%，报2262.71点。 MarketVector数字资产100指数跌0.45%，报12591.71点。 目前，Solana跌1.60%，狗狗币涨0.92%，XRP跌1.26%。 比特币跌0.75%，暂报63456.64美元；以太坊跌0.69%，暂报1863.05美元。",
@@ -1090,6 +1169,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
+        },
+        {
+          "title": "美元指数DXY短线下挫12点，最低至99.70，现回升至99.79。",
+          "url": "https://flash.jin10.com/detail/20260812172851182800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时00分"
         }
       ]
     },
